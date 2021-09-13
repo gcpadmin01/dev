@@ -1,0 +1,120 @@
+//@import "variables";
+@import "main";
+@import "utilities";
+@import "node_modules/@glidejs/glide/src/assets/sass/glide.core";
+@import "./node_modules/@glidejs/glide/src/assets/sass/glide.theme";
+@import "~choices.js/public/assets/styles/choices.css";
+@import "~vanillajs-datepicker/sass/datepicker";
+
+.main{
+  background-color: #fff;
+  padding: 10px;
+}
+
+.h1{
+  @extend %text_h1
+}
+
+.h2{
+  @extend %text_h2
+}
+
+.mb{
+  margin-bottom: 50px;
+}
+
+.hidden{
+  display: none !important;
+}
+
+.form-booking > .choices__item{
+  color:#554 !important
+}
+
+.card{
+
+  display: flex;
+  align-items: center;
+  position: relative;
+  width: 100%;
+  background-color: white;
+  filter: drop-shadow(2px 2px 5px rgba(25, 169, 225, 0.2));
+  margin-bottom: 20px;
+  height: 160px;
+  overflow: hidden;
+
+  .h2{
+    margin: 0;
+    line-height: 130%;
+    color:$color-primary
+  }
+
+  .slider{
+
+    flex-grow: 1;
+    align-items: stretch;
+    width: 552px;
+    .glide{
+      height: 100%;
+
+      .glide__track{
+        height: 100%;
+
+        .glide__slides{
+          height: 100%;
+
+          .glide__slide{
+            height: 100%;
+            margin-right: 0;
+          }
+        }
+      }
+
+      .glide__arrow{
+        border: none;
+        box-shadow: none;
+
+        &.glide__arrow--left{
+          left: 1em;
+        }
+        &.glide__arrow--right{
+          right: 1em;
+        }
+      }
+    }
+
+    img{
+      height: 100%;
+      width: 100%;
+      object-fit: cover;
+    }
+
+  }
+  .resorts{
+    width: 152px;
+    padding: 8px;
+
+    ul{
+      padding-left: 17px;
+      margin: 0px;
+      a {
+        text-decoration: none;
+        color: $color-primary;
+        font-size: 13px;
+        line-height: 200%;
+      }
+    }
+  }
+}
+
+.offers{
+  display: flex;
+  justify-content: space-between;
+  > a {
+    width: 48%;
+
+    img {
+      width: 100%;
+    }
+  }
+}

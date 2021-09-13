@@ -1,0 +1,18 @@
+.not-found {
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #01adef;
+  color: #fff;
+  margin: 10% 0;
+  padding: 10px;
+  flex-direction: column;
+  .h1{
+    color: $white;
+    text-align: center;
+  }
+  .nav-link{
+    color: $white;
+  }
+}

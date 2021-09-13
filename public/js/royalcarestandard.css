@@ -1,0 +1,112 @@
+@font-face {
+  font-family: 'galano';
+  src: url("/fonts/GalanoGrotesque-Light.eot");
+  src: url("/fonts/GalanoGrotesque-Light.ttf") format("truetype"), url("/fonts/GalanoGrotesque-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'galano';
+  src: url("/fonts/GalanoGrotesque-Regular.eot");
+  src: url("/fonts/GalanoGrotesque-Regular.ttf") format("truetype"), url("/fonts/GalanoGrotesque-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'galano';
+  src: url("/fonts/GalanoGrotesque-Medium.eot");
+  src: url("/fonts/GalanoGrotesque-Medium.ttf") format("truetype"), url("/fonts/GalanoGrotesque-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'galano';
+  src: url("/fonts/GalanoGrotesque-SemiBold.eot");
+  src: url("/fonts/GalanoGrotesque-SemiBold.ttf") format("truetype"), url("/fonts/GalanoGrotesque-SemiBold.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'galano-bold';
+  src: url("/fonts/GalanoGrotesque-Bold.eot");
+  src: url("/fonts/GalanoGrotesque-Bold.ttf") format("truetype"), url("/fonts/GalanoGrotesque-Bold.woff") format("woff");
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'galano-light';
+  src: url("/fonts/GalanoGrotesque-Light.eot");
+  src: url("/fonts/GalanoGrotesque-Light.ttf") format("truetype"), url("/fonts/GalanoGrotesque-Light.woff") format("woff");
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'galano-semibold';
+  src: url("/fonts/GalanoGrotesque-SemiBold.eot");
+  src: url("/fonts/GalanoGrotesque-SemiBold.ttf") format("truetype"), url("/fonts/GalanoGrotesque-SemiBold.woff") format("woff");
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'galano-medium';
+  src: url("/fonts/GalanoGrotesque-Medium.eot");
+  src: url("/fonts/GalanoGrotesque-Medium.ttf") format("truetype"), url("/fonts/GalanoGrotesque-Medium.woff") format("woff");
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'galano-regular';
+  src: url("/fonts/GalanoGrotesque-Regular.eot");
+  src: url("/fonts/GalanoGrotesque-Regular.ttf") format("truetype"), url("/fonts/GalanoGrotesque-Regular.woff") format("woff");
+  font-style: normal;
+}
+
+/*.9rem
+  2rem
+   1.5rem
+      1.3rem*/
+
+/*$card-border-color:                 rgba($black, .125);
+$card-inner-border-radius:          calc(0 - 0);
+$card-cap-bg:                       rgba($black, .03);
+$card-cap-color:                    inherit;
+$card-bg:                           $white;
+
+$card-img-overlay-padding:          1.25rem;
+
+$card-group-margin:                 $grid-gutter-width / 2;
+$card-deck-margin:                  $card-group-margin;
+
+$card-columns-count:                3;
+$card-columns-gap:                  1.25rem;
+$card-columns-margin:               $card-spacer-y;*/
+
+/*$nav-link-padding-y:                .5rem !default;
+$nav-link-padding-x:                1rem !default;
+$nav-link-disabled-color:           $gray-600 !default;
+
+$nav-tabs-border-color:             $gray-300 !default;
+$nav-tabs-border-width:             $border-width !default;
+$nav-tabs-border-radius:            $border-radius !default;
+$nav-tabs-link-hover-border-color:  $gray-200 $gray-200 $nav-tabs-border-color !default;
+$nav-tabs-link-active-color:        $gray-700 !default;
+$nav-tabs-link-active-bg:           $body-bg !default;
+$nav-tabs-link-active-border-color: $gray-300 $gray-300 $nav-tabs-link-active-bg !default;
+
+$nav-pills-border-radius:           $border-radius !default;
+$nav-pills-link-active-color:       $component-active-color !default;
+$nav-pills-link-active-bg:          $component-active-bg !default;
+
+$nav-divider-color:                 $gray-200 !default;
+$nav-divider-margin-y:              $spacer / 2 !default;*/
+
+/** Color Palette **/
+
+.container-nav-primary {
+  background-color: #0c2d63;
+}
+

@@ -1,0 +1,127 @@
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+@import '~bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css';
+
+// Slick slider
+@import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css";
+
+@import '~jquery-ui/themes/base/all.css';
+
+@import 'part_sands_covid19';
+
+
+// =====================================================================================
+// Fix para poder seleccionar los textos del slider
+// =====================================================================================
+.slick-slider {
+  user-select: text;
+}
+.slick-list.draggable {
+  user-select: text;
+}
+
+// =====================================================================================
+// Actualizacion del boton de cerrar del modal
+// =====================================================================================
+.modal-header .close{
+  opacity: 1;
+
+  span{
+    font-weight: bolder;
+    border: none;
+    font-size: 30px;
+    text-shadow: none;
+  }
+}
+
+.checkAvailabityModal {
+  .modal-header .close{
+    background-color: #0c2d63;
+    color: white;
+
+  }
+}
+// =====================================================================================
+// Actualizacion del datepicker
+// =====================================================================================
+//url("/img/flecha-derecha-gris.png")
+.ui-icon-circle-triangle-e{
+  background: none !important;
+  border: solid;
+  border-width: 10px 0px 10px 10px;
+  border-color: transparent transparent transparent black;
+  margin-top: -6px !important;
+}
+
+.ui-icon-circle-triangle-w{
+  background: none !important;
+  border: solid;
+  border-width: 10px 10px 10px 0px;
+  border-color: transparent black transparent transparent;
+  margin-top: -6px !important;
+}
+
+.ui-widget-content .ui-state-hover{
+   border: none;
+}
+
+// =====================================================================================
+// Actualizacion del autocomplete
+// =====================================================================================
+.ui-autocomplete {
+  max-height: 300px;
+  overflow-y: auto;   /* prevent horizontal scrollbar */
+  overflow-x: hidden; /* add padding to account for vertical scrollbar */
+  z-index:1100 !important;
+  
+  .ui-menu-item{  
+    padding: 2px 13px;
+    font-size: 0.7rem;
+    font-weight: 500;
+    font-family: "galano";
+    color: $black-gray;
+
+    &:hover{
+      background-color: #5897fb;
+      color: #fff;
+    }
+
+    &.destino{
+      opacity: 1;
+      padding-left: 8px;
+      font-weight: 700;
+      color: #000;
+    }
+  }
+}
+.error{
+  color: red;
+}
+
+
+// Select2
+@import "~select2/dist/css/select2.css";
+
+@import "utilities";
+@import "general";
+
+@import "header";
+@import "footer";
+
+@import "home";
+@import "destination";
+@import "booking";
+@import "resorts";
+@import "resort-rooms";
+@import "resort-amenities";
+@import "resorts-restaurants";
+@import "resort-deals";
+@import "resort_review";
+@import "resort-gallery";
+@import "not-found";
+@import "gms";
+

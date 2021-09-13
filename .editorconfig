@@ -1,0 +1,6 @@
+[*.html]
+index_size = 2
+[*.scss]
+index_size = 2
+[*.js]
+index_size = 2

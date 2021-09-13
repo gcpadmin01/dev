@@ -1,0 +1,98 @@
+<?php
+
+return [
+    'seo'=>
+    [
+        'title'=>'Restaurantes en The Royal Cancún Resort | Royal Reservations',
+        'metadescription'=>'Al hospedarte en The Royal Cancún, elige entre platillos italianos, mexicanos o internacionales dentro de un relajado ambiente junto al mar. Este resort de playa presume restaurantes y bares de talla mundial',
+    ],
+    'title' => 'Restaurantes y Bares en The Royal Cancun',
+    'all_restaurants' => lang_url('/es/hoteles-de-playa/the-royal-cancun/restaurantes-en-the-royal-cancun'),
+    'content' => 'En un relajante ambiente en The Royal Cancun puedes deleitar tu paladar con tus platillos favoritos de cocina italiana o internacional, acompañados de tu coctel o bebida favorita.',
+
+    //title landing interna
+    'title_interna_restaurants' => 'Restaurantes y Bares en The Royal Cancun',
+    'subtitle_interna_restaurants' => 'Las mejores opciones para comer en un hotel de playa',
+    //descripción landing interna
+    'description_interna_restaurantes' => 'Disfruta las deliciosas opciones culinarias disponibles en The Royal Cancun All Suites Resort. Elige entre platillos italianos, mexicanos o internacionales como pizzas, pastas, tacos, ensaladas y más dentro de un relajado ambiente junto al mar. Este resort de playa presume restaurantes y bares de talla mundial, al ofrecer deliciosos platillos preparados por nuestros chefs de renombre con ingredientes seleccionados a mano, que sin duda, satisfacen al paladar más exigente. Todo esto se disfruta más en una atmósfera tan bella y única como la del Caribe Mexicano.',
+
+    'restaurants' => [
+        0=>[
+            'name' => 'La Palapa',
+            'excerpt' => 'Ofrece incomparables vistas de la playa con sus aguas turquesa frente a la bella Isla Mujeres',
+            'open' => 'Abierto Diariamente de 7am a 10pm',
+            'image' => 'the-royal-cancun-dining-a.jpg',
+            'food'=>'Especialidades del Mar',
+            'dress_code'=>'Casual',
+            'logo'=> asset('img/resorts/the-villas-at-simpson-bay-resort/dining/the-villas-at-simpson-bay-resort-dining-a.jpg'),
+            'image_interna_landing'=> 'the-royal-cancun-restaurants-aa.jpg',
+            'reference'=> '',
+        ],
+        1=>[
+            'name' => 'The Italian Trattoria Sports Bar',
+            'excerpt' => 'No te pierdas ese partido aunque estés de vacaciones. Tenemos televisión de plasma y deliciosos bocadillos que te harán pasar ratos muy agradables',
+            'open' => 'Abierto Diariamente de 5pm a 13:30pm',
+            'image' => 'the-royal-cancun-dining-b.jpg',
+            'food'=>'Bocadillos y Bebidas',
+            'dress_code'=>'Casual',
+            'logo'=> asset('img/resorts/the-villas-at-simpson-bay-resort/dining/the-villas-at-simpson-bay-resort-dining-a.jpg'),  
+            'image_interna_landing'=> 'the-royal-cancun-restaurants-bb.jpg',
+            'reference'=> '',
+        ],
+        2=>[
+            'name' => 'The Italian Trattoria',
+            'excerpt' => 'El lugar perfecto para cenar. Se sirven platillos tradicionales italianos como carpaccios, ensaladas, pastas, pizzas, saltimbocca y mucho más',
+            'open' => 'Abierto Diariamente de 5pm a 10pm',
+            'image' => 'the-royal-cancun-dining-c.jpg',
+            'food'=>'Cocina Italiana',
+            'dress_code'=>'Casual Elegante',
+            'logo'=> asset('img/resorts/the-villas-at-simpson-bay-resort/dining/the-villas-at-simpson-bay-resort-dining-a.jpg'), 
+            'image_interna_landing'=> 'the-royal-cancun-restaurants-cc.jpg',
+            'reference'=> '',   
+        ], 
+        3=>[
+            'name' => 'Bartolo’s Pizza',
+            'excerpt' => '¿Se te antoja una pizza? Si la quieres de puro queso o de pepperoni, sólo tienes que pedirla. Puedes pedir una deliciosa pizza desde la comodidad de tu habitación, te la llevaremos hasta tu villa',
+            'open' => 'Abierto Diariamente de 11am a 9pm',
+            'image' => 'the-royal-cancun-dining-d.jpg',
+            'food'=>'Pizzas',
+            'dress_code'=>'N/A',
+            'logo'=> asset('img/resorts/the-villas-at-simpson-bay-resort/dining/the-villas-at-simpson-bay-resort-dining-a.jpg'),
+            'image_interna_landing'=> 'the-royal-cancun-restaurants-d.jpg',
+            'reference'=> '',
+        ],
+        4=>[
+            'name' => 'Beach Bar',
+            'excerpt' => '',
+            'open' => 'Abierto Diariamente de 10am a 6pm',
+            'image' => 'the-royal-cancun-dining-e.jpg',
+            'food'=>'Cócteles y Bebidas',
+            'dress_code'=>'Casual, traje de baño aceptable',
+            'logo'=> asset('img/resorts/the-villas-at-simpson-bay-resort/dining/the-villas-at-simpson-bay-resort-dining-a.jpg'),
+            'image_interna_landing'=> 'the-royal-cancun-restaurants-e.jpg',
+            'reference'=> '',
+        ],
+        5=>[
+            'name' => 'Royal Express',
+            'excerpt' => '',
+            'open' => 'Abierto Diariamente de tam a 10pm',
+            'image' => 'the-royal-cancun-dining-f.jpg',
+            'food'=>'Bocadillos y Comida para Llevar',
+            'dress_code'=>'N/A',
+            'logo'=> asset('img/resorts/the-villas-at-simpson-bay-resort/dining/the-villas-at-simpson-bay-resort-dining-a.jpg'),
+            'image_interna_landing'=> 'the-royal-cancun-restaurants-f.jpg',
+            'reference'=> '',
+        ],
+        6=>[
+            'name' => 'Pool Bars',
+            'excerpt' => '',
+            'open' => 'Abierto Diariamente de 10am a 5pm',
+            'image' => 'the-royal-cancun-dining-g.jpg',
+            'food'=>'Bocadillos y Bebidas',
+            'dress_code'=>'Casual, traje de baño aceptable',
+            'logo'=> asset('img/resorts/the-villas-at-simpson-bay-resort/dining/the-villas-at-simpson-bay-resort-dining-a.jpg'),
+            'image_interna_landing'=> 'the-royal-cancun-restaurants-gg.jpg',
+            'reference'=> '',
+        ],       
+    ],
+];

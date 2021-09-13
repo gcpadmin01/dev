@@ -1,0 +1,26 @@
+.sec-restaurants{
+  .mosaic {
+    .item {
+      .info {
+        transform: translateY(-100px);
+        .title{
+            margin-bottom: 0rem;
+        }
+        .subtitle{
+          color: $white;
+          font-weight: bold;
+          font-size: 1.1rem;
+        }
+        .text span{
+          display: block;
+          text-align: left;
+        }
+      }
+      &:hover{
+        .info{
+          transform: translateY(-100%);
+        }
+      }
+    }
+  }
+}

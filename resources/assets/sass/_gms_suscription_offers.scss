@@ -1,0 +1,269 @@
+.banner-main{
+    // max-width: 1250px !important;
+    position: relative;
+    background: #c2c7cf;
+    // height: 400px;
+    
+    .time-control{
+        position: absolute;
+        text-align: center;
+        bottom: 25px;
+
+    }
+}
+
+.title-color{
+    color: #0C2D63;
+    i{
+        text-decoration: underline;
+        font-style:inherit;
+    }
+}
+
+.p-40{
+    padding-top: 40px;
+}
+
+.grp-btn{
+    margin-top:60px;
+    .btn-subscribe{
+        background-color: #1EABE3;
+        color:#fff;
+        padding-bottom: 7px;
+        padding-top: 7px;
+        margin:auto;
+        display: none;
+        &:hover{
+            color: #fff !important;
+        }
+    }
+}
+
+.title-item{
+    font-family: 'galano-semibold';
+    line-height: 20px;
+    font-size: 18px;
+}
+
+#modal-subscribe{
+    .gms-main{
+        background: none;
+        .background-left{
+            box-shadow: none;
+        }
+    }
+}
+
+content-card{
+    margin-bottom: 35px;
+}
+
+%bg-confing{
+    position: relative;
+    height: 441px;
+    &:before{
+        content:'';
+        background-image: url("/img/deals/icons-deals/offer-icons.png");
+        position: absolute;
+        width: 100%;
+        height: 92%;
+        top:35px;
+        left: 0px;
+    }
+    .title-gms-video{
+        font-family: 'galano-semibold';
+        font-size: 24px;
+        line-height: 28px;
+        margin-top: 66px;
+        color:#fff;
+    }
+}
+
+.gms-bg-form{
+    background: linear-gradient(180deg, #E8EBED 0%, rgba(255, 255, 255, 0) 100%);
+    position: relative;
+    padding-top: 66px;
+    padding-bottom: 86px;
+    padding-left: 66px;
+    padding-right: 48px;
+    span {
+        b{
+            color:#1EABE3;
+        }
+   }
+
+    &:before{
+        content:'';
+        background-image: url("/img/deals/icons-deals/offer-icons.png");
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top:0;
+        left: 0;
+    }
+}
+
+.gms-bg-red{
+    background: #970311;
+    @extend %bg-confing;
+
+}
+
+.gms-bg-black{
+    background: #000;
+    @extend %bg-confing;
+
+}
+
+.gms-main{
+    background: none !important;
+}
+
+.gms-bg-form{
+    .title-gms{
+        font-family: 'galano-semibold';
+        font-size: 24px;
+        line-height: 28px;
+    }
+    .icon-mark-blue:nth-of-type(1){
+        margin-top: 30px;
+        margin-bottom: 12px;
+    }
+    
+    .icon-mark-blue{
+        display: flex;
+        &:before{
+            content: '';
+            background-image: url("/img/icons-resorts/icons-blue-mark.png");
+            background-repeat: no-repeat;
+            position: relative;
+            top:6px;
+            margin-right: 20px;
+            width: 30px;
+            height: 24px;
+        }
+    }
+    .icon-check-blue{
+        display: block;
+        font-weight: 500; 
+        &:before{
+            content: '';
+            display: inline-block;
+            background-image: url("/img/icons-resorts/icons-blue-check.png");
+            position: relative;
+            top:6px;
+            margin-right: 20px;
+            width: 24px;
+            height: 24px;
+        }
+    }
+    .info-subscribe{
+        margin-top: 40px;
+        font-size: 18px;
+    }
+}
+.gms-video{
+    text-align: center;
+    .video-resp{
+        position: relative;
+        padding-bottom: 56.25%; /*panorámico*/
+        padding-top: 25px;
+    }
+}
+
+@media (max-width: 1250px) {
+    nav{
+        width: 100%;
+    }
+}
+
+@media all and(max-width:768px){
+    nav{
+        display: none;
+    }
+    .card-new{
+        height: 100%;
+    }
+    .gms-bg-form{
+        padding-top: 50px;
+        padding-bottom: 50px;
+        padding-left: 50px;
+        padding-right: 50px;
+
+        .gms-main{
+            display: flex; 
+            .col-lg-6:nth-of-type(1){
+                order:2;
+                padding-left: 80px;
+                padding-right: 80px;
+            }
+            .col-lg-6:nth-of-type(2){
+                order:1;
+                margin-bottom:0;
+            }
+        }
+
+        &:before{
+            background: none;
+        }
+    }
+
+    .p-40{
+        padding-top: 0;
+    }
+
+    .video-resp{        
+        iframe{
+            margin-top: 40px;
+            position: absolute;
+            top: -20px;
+            left: 0;
+            width: 100%;
+        }
+    }
+
+    .time-control{
+        bottom: 5px !important;
+    }
+}
+
+
+@media all and (max-width: 412px) {
+    .gms-bg-form{
+        padding-top: 0px;
+        padding-bottom: 0px;
+        padding-left: 15px;
+        padding-right: 15px;
+        .gms-main{
+            .col-lg-6:nth-of-type(1){
+                display: none;
+            }
+            .col-lg-6:nth-of-type(2){
+                padding-top: 0px;
+                padding-bottom: 53px;
+            }
+        }
+
+        &:before{
+            background: none;
+        }
+    }
+
+    .btn-subscribe{
+        display: block !important;
+    }
+
+    .title-item {
+        font-size: 14px;
+    }
+
+    .info-subscribe{
+        text-align: center;
+    }
+    
+    .time-control{
+        img{
+            width: 100%;
+        }
+    }
+}

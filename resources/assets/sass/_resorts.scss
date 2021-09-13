@@ -1,0 +1,989 @@
+@media all and (min-width: 1200px) {
+  .booking-resort-interna {
+    margin-top: -175px;
+    z-index: 23;
+    position: relative;
+    width: 100%;
+  }
+}
+
+.borde {
+  box-shadow: 1px 1px 10px #ccc;
+}
+
+.links-resort {
+  /*background: $light-gray;*/
+  background: $white;
+  a {
+    @extend %e2-v1;
+    /*color: $dark-gray;*/
+    color: $sky-blue;
+    position: relative;
+  }
+  a.active {
+    color: $white;
+    /*background: $dark-gray;*/
+    background: $sky-blue;
+    &:before {
+      content: "";
+      position: absolute;
+      left: -1px;
+      width: 1px;
+      height: 100%;
+      top: 0;
+      background: $dark-gray;
+    }
+  }
+  a:after {
+    content: "";
+    position: absolute;
+    right: 0;
+    width: 1px;
+    height: 50%;
+    top: 25%;
+    background: $dark-gray;
+  }
+  a:last-child:after {
+    display: none;
+  }
+}
+
+.links-resort-light {
+  background-color: transparent;
+  a {
+    @extend %e2-v1;
+    /*color: $dark-gray;*/
+    /*background-color: $light-gray;*/
+    background: $white;
+    color: $sky-blue;
+  }
+}
+
+.resort-gallery-container {
+  ul {
+    padding-left: 0;
+  }
+  .slick-prev,
+  .slick-next {
+    background-color: $light-gray;
+    width: 30px;
+    height: 35px;
+    z-index: 1;
+  }
+  .slick-prev {
+    transform: translateY(-50%) translateX(-50%);
+    left: 0;
+  }
+  .slick-next {
+    transform: translateY(-50%) translateX(50%);
+    right: 0;
+  }
+  .slick-prev:before, .slick-next:before {
+    border-top: 2px solid $dark-gray;
+    border-left: 2px solid $dark-gray;
+    transform: rotate(-45deg);
+    content: "";
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 22%;
+    left: 38%;
+    pointer-events: none;
+  }
+  .slick-next:before {
+    border-top: 2px solid $dark-gray;
+    border-left: none;
+    border-right: 2px solid $dark-gray;
+    transform: rotate(45deg);
+    left: 5%;
+  }
+
+  .sec-resort-gallery-nav{
+    padding-top:5px;
+  }
+}
+
+.resort-gallery-nav {
+  li {
+    cursor: pointer;
+    @include hover-focus-active {
+      border: none;
+      outline: none;
+    }
+    img {
+      @include hover-focus-active {
+        border: none;
+        outline: none;
+      }
+    }
+  }
+}
+
+.resort-amenities {
+  text-align: center;
+  ul {
+    list-style: none;
+  }
+  .view-all {
+    display: block;
+  }
+  .notify-checkin{
+    position: relative;
+    display: flex;
+    font-size: 14px;
+    strong{
+      color: #4689C4;
+    }
+    i{
+      padding-top: 10px;
+      padding-right: 30px;
+      &::before{
+        content: "";
+        background: url(/img/alert.png) no-repeat;
+        background-size: 20px 20px;
+        width:20px;
+        height: 20px;
+        position: absolute;
+        top:5px;
+      }
+    }
+  }
+}
+
+@media all and (max-width: 420px) {
+  .resort-amenities {
+    ul {
+      padding-left: 0;
+      li {
+        display: block;
+        width: 80%;
+        margin: auto;
+      }
+    }
+  }
+}
+
+@media all and (min-width: 421px) and (max-width: 768px) {
+  .resort-amenities {
+    ul {
+      li {
+        width: 50%;
+      }
+    }
+  }
+}
+
+.amenities-icon {
+  position: relative;
+  padding-left: 35px;
+  min-height: 23px;
+  text-align: left;
+  &.amenity-multilingual-staff:before {
+    background-position: -0px -3px
+  }
+  &.amenity-toiletries:before {
+    background-position: -30px -3px
+  }
+  &.amenity-extra-bed:before {
+    background-position: -60px -3px
+  }
+  &.amenity-disability:before {
+    background-position: -90px -3px
+  }
+  &.amenity-pet-friendly:before {
+    background-position: -120px -3px
+  }
+  &.amenity-spa:before {
+    background-position: -150px -3px
+  }
+  &.amenity-bicycle:before {
+    background-position: -180px -3px
+  }
+  &.amenity-kids-toys:before {
+    background-position: -210px -3px
+  }
+  &.amenity-car-rental:before {
+    background-position: -240px -3px
+  }
+  &.amenity-sport-activities:before {
+    background-position: -270px -3px
+  }
+  &.amenity-shopping:before {
+    background-position: -300px -3px
+  }
+
+  &.amenity-doctor-on-call:before {
+    background-position: -0px -35px
+  }
+  &.amenity-atm:before {
+    background-position: -30px -35px
+  }
+  &.amenity-tennis-courts:before {
+    background-position: -60px -35px
+  }
+  &.amenity-restaurants:before {
+    background-position: -90px -35px
+  }
+  &.amenity-tour-desk:before {
+    background-position: -120px -32px
+  }
+  &.amenity-elevators:before {
+    background-position: -150px -35px
+  }
+  &.amenity-exchange-currency:before {
+    background-position: -180px -35px
+  }
+  &.amenity-beach-chairs:before {
+    background-position: -210px -35px
+  }
+  &.amenity-credit-cards-accepted:before {
+    background-position: -240px -35px
+  }
+  &.amenity-bars:before {
+    background-position: -270px -35px
+  }
+  &.amenity-shuttle:before {
+    background-position: -300px -35px
+  }
+
+  &.amenity-wifi:before {
+    background-position: -0px -63px
+  }
+  &.amenity-beachfront:before {
+    background-position: -30px -63px
+  }
+  &.amenity-beauty-salon:before {
+    background-position: -60px -63px
+  }
+  &.amenity-diving-center:before {
+    background-position: -90px -63px
+  }
+  &.amenity-catamaran:before {
+    background-position: -120px -63px
+  }
+  &.amenity-fitness-center:before {
+    background-position: -150px -63px
+  }
+  &.amenity-pool:before {
+    background-position: -180px -63px
+  }
+  &.amenity-laundry-service:before {
+    background-position: -210px -63px
+  }
+  &.amenity-maid-service:before {
+    background-position: -240px -63px
+  }
+  &.amenity-activities-program:before {
+    background-position: -270px -63px
+  }
+  &.amenity-kids-club:before {
+    background-position: -300px -63px
+  }
+
+  &.amenity-non-motorized:before {
+    background-position: -0px -93px
+  }
+  &.amenity-security:before {
+    background-position: -30px -93px
+  }
+  &.amenity-concierge:before {
+    background-position: -60px -93px
+  }
+  &.amenity-airport-transfer:before {
+    background-position: -90px -93px
+  }
+  &.amenity-room-service:before {
+    background-position: -120px -93px
+  }
+  &.amenity-free-parking:before {
+    background-position: -150px -93px
+  }
+  &.amenity-business-center:before {
+    background-position: -180px -93px
+  }
+  &.amenity-basket-ball:before {
+    background-position: -210px -93px
+  }
+  &.amenity-marina:before {
+    background-position: -240px -93px
+  }
+  &.amenity-private-beach:before {
+    background-position: -270px -93px
+  }
+  &.amenity-aquarium:before {
+    background-position: -300px -93px
+  }
+
+  &.amenity-kids-pool:before {
+    background-position: -0px -123px
+  }
+  &.amenity-jacuzzi:before {
+    background-position: -30px -123px
+  }
+  &.amenity-teens-club:before {
+    background-position: -60px -123px
+  }
+  &.amenity-children-playground:before {
+    background-position: -90px -123px
+  }
+  &.amenity-golf:before {
+    background-position: -120px -123px
+  }
+  &.amenity-nightclub:before {
+    background-position: -150px -123px
+  }
+  &.amenity-shooting-center:before {
+    background-position: -180px -123px
+  }
+  &.amenity-wedding-services:before {
+    background-position: -210px -123px
+  }
+  &.amenity-wedding-chapel:before {
+    background-position: -240px -123px
+  }
+  &.amenity-casino:before {
+    background-position: -270px -123px
+  }
+  &.amenity-amphitheatre:before {
+    background-position: -300px -123px
+  }
+
+  &.amenity-equestrian-center:before {
+    background-position: -0px -53px
+  }
+  &.amenity-conference-room:before {
+    background-position: -30px -53px
+  }
+  &.amenity-turndown-service:before {
+    background-position: -60px -53px
+  }
+  &.amenity-luxury-accommodation:before {
+    background-position: -90px -151px
+  }
+  &.amenity-front-desk:before {
+    background-position: -120px -151px
+  }
+  &.amenity-pool-valet:before {
+    background-position: -150px -53px
+  }
+
+}
+
+.amenities-icon:before {
+  content: "";
+  background: url(/img/icons-resorts/icons-blue.png) no-repeat;
+  /*background-blend-mode: overlay;*/
+  background-size: 330px 300px;
+  width: 30px;
+  height: 23px;
+  top: 0;
+  left: 0;
+  position: absolute;
+}
+
+.amenities-icon-rooms {
+  padding-left: 30px !important;
+  padding-right: 10px !important;
+  &:before {
+    width: 25px; // 33px
+    height: 25px; // 22px
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    vertical-align: middle;
+    background-image: url('/img/icons-resorts/rooms_azul-and-rate-plans.png');
+    /*background-blend-mode: overlay;*/
+    background-size: 275px 125px;
+    background-repeat: no-repeat;
+  }
+  &.amenity-refrigerador::before {
+    background-position: 0px 0px;
+  }
+  &.amenity-toiletries::before {
+    background-position: -25px 0px;
+  }
+  &.amenity-extrabeds::before {
+    background-position: -50px 0px;
+  }
+  &.amenity-wheelchair-accessible::before {
+    background-position: -75px 0px;
+  }
+  &.amenity-seating-area::before {
+    background-position: -100px 0px;
+  }
+  &.amenity-walk-in-closet::before {
+    background-position: -125px 0px;
+  }
+  &.amenity-balcony::before {
+    background-position: -150px 0px;
+  }
+  &.amenity-shower::before {
+    background-position: -175px 0px;
+  }
+  &.amenity-bathroom::before {
+    background-position: -200px 0px;
+  }
+  &.amenity-terrace::before {
+    background-position: -225px 0px;
+  }
+  &.amenity-bathroom-with-tub::before {
+    background-position: -250px 0px;
+  }
+  &.amenity-tv::before {
+    background-position: 0px -25px;
+  }
+  &.amenity-stove::before {
+    background-position: -25px -25px;
+  }
+  &.amenity-murphy-bed::before {
+    background-position: -50px -25px;
+  }
+  &.amenity-dining-room::before {
+    background-position: -75px -25px;
+  }
+  &.amenity-coffee-maker::before {
+    background-position: -100px -25px;
+  }
+  &.amenity-area::before {
+    background-position: -125px -25px;
+  }
+  &.amenity-telephone::before {
+    background-position: -150px -25px;
+  }
+  &.amenity-iron::before {
+    background-position: -175px -25px;
+  }
+  &.amenity-mini-bar::before {
+    background-position: -200px -25px;
+  }
+  &.amenity-full-kitchen::before {
+    background-position: -225px -25px;
+  }
+  &.amenity-in-room-safe::before {
+    background-position: -250px -25px;
+  }
+  &.amenity-wi-fi::before {
+    background-position: 0px -50px;
+  }
+  &.amenity-two-story-level::before {
+    background-position: -25px -50px;
+  }
+  &.amenity-hairdryer::before {
+    background-position: -50px -50px;
+  }
+  &.amenity-microwave::before {
+    background-position: -75px -50px;
+  }
+  &.amenity-desk::before {
+    background-position: -100px -50px;
+  }
+  &.amenity-premium::before {
+    background-position: -125px -50px;
+  }
+  &.amenity-pool::before {
+    background-position: -150px -50px;
+  }
+  &.amenity-washing-machine::before {
+    background-position: -175px -50px;
+  }
+  &.amenity-a-c::before {
+    background-position: -200px -50px;
+  }
+  &.amenity-capacity::before {
+    background-position: -225px -50px;
+  }
+  &.amenity-jacuzzi::before {
+    background-position: -250px -50px;
+  }
+  &.amenity-concierge::before {
+    background-position: 0px -75px;
+  }
+  &.amenity-bedding::before {
+    background-position: -25px -75px;
+  }
+  &.amenity-living-dining::before {
+    background-position: -50px -75px;
+  }
+  &.amenity-closet::before {
+    background-position: -75px -75px;
+  }
+
+  &.rate-plans-all-inclusive::before {
+    background-position: -528px -130px;
+  }
+  &.rate-plans-room-only::before {
+    background-position: -528px -130px;
+  }
+  &.rate-plans-bed-and-breakfast::before {
+    background-position: -528px -130px;
+  }
+}
+
+.resorts-amenities {
+  list-style: none;
+  margin: 0;
+  column-count: 3;
+  margin-bottom: 25px;
+  padding: 0;
+  li {
+    /*line-height: 32px;*/
+    &:before {
+      content: "";
+      display: inline-block;
+      width: 26px;
+      height: 25px;
+      background-image: url('/img/icons-resorts/icons-yellow-min.png');
+      /*background-blend-mode: overlay;*/
+      background-size: 275px 250px;
+      background-repeat: no-repeat;
+      vertical-align: middle;
+    }
+
+    &.amenity-multilingual-staff:before {
+      background-position: 0px -2px;
+    }
+    &.amenity-toiletries:before {
+      background-position: -25px -2px;
+    }
+    &.amenity-extra-bed:before {
+      background-position: -50px -2px;
+    }
+    &.amenity-disability:before {
+      background-position: -75px -2px;
+    }
+    &.amenity-pet-friendly:before {
+      background-position: -100px -2px;
+    }
+    &.amenity-spa:before {
+      background-position: -125px -2px;
+    }
+    &.amenity-bicycle:before {
+      background-position: -150px -2px;
+    }
+    &.amenity-kids-toys:before {
+      background-position: -175px -2px;
+    }
+    &.amenity-car-rental:before {
+      background-position: -200px -2px;
+    }
+    &.amenity-sport-activities:before {
+      background-position: -225px -2px;
+    }
+    &.amenity-shopping:before {
+      background-position: -250px -2px;
+    }
+
+    &.amenity-doctor-on-call:before {
+      background-position: 0px -27px;
+    }
+    &.amenity-atm:before {
+      background-position: -25px -27px;
+    }
+    &.amenity-tennis-courts:before {
+      background-position: -50px -27px;
+    }
+    &.amenity-restaurants:before {
+      background-position: -75px -27px;
+    }
+    &.amenity-tour-desk:before {
+      background-position: -100px -27px;
+    }
+    &.amenity-elevators:before {
+      background-position: -125px -27px;
+    }
+    &.amenity-exchange-currency:before {
+      background-position: -150px -27px;
+    }
+    &.amenity-beach-chairs:before {
+      background-position: -175px -27px;
+    }
+    &.amenity-credit-cards-accepted:before {
+      background-position: -200px -27px;
+    }
+    &.amenity-bars:before {
+      background-position: -225px -27px;
+    }
+    &.amenity-shuttle:before {
+      background-position: -250px -27px;
+    }
+
+    &.amenity-wifi:before {
+      background-position: 0px -52px;
+    }
+    &.amenity-beachfront:before {
+      background-position: -25px -52px;
+    }
+    &.amenity-beauty-salon:before {
+      background-position: -50px -52px;
+    }
+    &.amenity-diving-center:before {
+      background-position: -75px -52px;
+    }
+    &.amenity-catamaran:before {
+      background-position: -100px -52px;
+    }
+    &.amenity-fitness-center:before {
+      background-position: -125px -52px;
+    }
+    &.amenity-pool:before {
+      background-position: -150px -52px;
+    }
+    &.amenity-laundry-service:before {
+      background-position: -175px -52px;
+    }
+    &.amenity-maid-service:before {
+      background-position: -200px -52px;
+    }
+    &.amenity-activities-program:before {
+      background-position: -225px -52px;
+    }
+    &.amenity-kids-club:before {
+      background-position: -250px -52px;
+    }
+
+    &.amenity-non-motorized:before {
+      background-position: 0px -77px;
+    }
+    &.amenity-security:before {
+      background-position: -25px -77px;
+    }
+    &.amenity-concierge:before {
+      background-position: -50px -77px;
+    }
+    &.amenity-airport-transfer:before {
+      background-position: -75px -77px;
+    }
+    &.amenity-room-service:before {
+      background-position: -100px -77px;
+    }
+    &.amenity-free-parking:before {
+      background-position: -125px -77px;
+    }
+    &.amenity-business-center:before {
+      background-position: -150px -77px;
+    }
+    &.amenity-basket-ball:before {
+      background-position: -175px -77px;
+    }
+    &.amenity-marina:before {
+      background-position: -200px -77px;
+    }
+    &.amenity-private-beach:before {
+      background-position: -225px -77px;
+    }
+    &.amenity-aquarium:before {
+      background-position: -250px -77px;
+    }
+
+    &.amenity-kids-pool:before {
+      background-position: -0px -102px;
+    }
+    &.amenity-jacuzzi:before {
+      background-position: -25px -102px;
+    }
+    &.amenity-teens-club:before {
+      background-position: -50px -102px;
+    }
+    &.amenity-children-playground:before {
+      background-position: -75px -102px;
+    }
+    &.amenity-golf:before {
+      background-position: -100px -102px;
+    }
+    &.amenity-nightclub:before {
+      background-position: -125px -102px;
+    }
+    &.amenity-shooting-center:before {
+      background-position: -150px -102px;
+    }
+    &.amenity-wedding-services:before {
+      background-position: -175px -102px;
+    }
+    &.amenity-wedding-chapel:before {
+      background-position: -200px -102px;
+    }
+    &.amenity-casino:before {
+      background-position: -225px -102px;
+    }
+    &.amenity-amphitheatre:before {
+      background-position: -250px -102px;
+    }
+
+    &.amenity-equestrian-center:before {
+      background-position: 0px -127px;
+    }
+    &.amenity-conference-room:before {
+      background-position: -25px -127px;
+    }
+    &.amenity-turndown-service:before {
+      background-position: -50px -127px;
+    }
+    &.amenity-luxury-accommodation:before {
+      background-position: -75px -127px;
+    }
+    &.amenity-front-desk:before {
+      background-position: -100px -127px;
+    }
+    &.amenity-pool-valet:before {
+      background-position: -125px -127px;
+    }
+  }
+}
+.clm-2{
+  column-count: 2 !important;
+}
+.certs{
+  column-count: 2;
+  text-align: center;
+  margin-left: -25px;
+  img{
+    margin-bottom: 35px;
+  }
+}
+
+#icon-certf{
+  &::before{
+    content:"";
+    display: inline-block;
+    background-image: url(/img/certificate/icono-certf.png);
+    background-size: cover;
+    width: 32px;
+    height: 32px;
+    position: relative;
+    top:11px;
+  }
+  span:nth-child(2){
+    font-size: 15px !important;
+    font-weight: bold;
+    margin-left: 5px;
+    cursor: pointer;
+    color: #1eabe3;
+  }
+  span:nth-child(1){
+    font-size: 15px !important;
+    margin-left: 5px;
+  }
+}
+
+@media all and(max-width: 464px) {
+  .h1{
+    font-size: 25px ! important;
+    line-height: 1.75rem !important;
+    text-align: center !important;
+    padding-bottom: 25px;
+  }
+}
+
+.resorts-policies {
+  list-style: none;
+  padding-left: 0px;
+  column-count: 3;
+  li {
+    padding-left: 1rem;
+    position: relative;
+  }
+  li::before {
+    color: #fdb319;
+    content: "\2022";
+    font-size: 1em;
+    padding-right: 0.7em;
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+}
+
+
+
+@media all and(max-width: 768px) {
+  .resorts-policies {
+    column-count: 1;
+  }
+}
+
+.resort-rooms > div:nth-last-child(2) {
+  margin-bottom: 1.5rem;
+}
+
+.resort-room {
+  background-color: $light-gray;
+  margin-bottom: 28px;
+
+  .resort-room-image {
+    background-size: cover;
+    background-position: center;
+    position: relative;
+
+    .label-plan {
+      h2 {
+        @extend %e7;
+        margin-bottom: 0;
+      }
+      @extend %e7;
+      position: absolute;
+      padding: .3rem 1.3rem;
+      top: 15px;
+      left: -8px;
+      background: $light-gray;
+      &:after {
+        content: "";
+        display: block;
+        position: absolute;
+        background-color: $light-gray;
+        width: 8px;
+        bottom: -5px;
+        left: 0;
+        height: 13px;
+        z-index: -1;
+        transform: skewY(45deg);
+      }
+      &:hover {
+        background: $dark-gray;
+        color: $white;
+        &:after {
+          background: $dark-gray;
+        }
+      }
+    }
+    .resort-new-room{
+      position: absolute;
+      width: 100%;
+      bottom: 10px;
+
+      span{
+        background-color: #fff;
+        padding: 10px 30px 10px 30px;
+        font-weight: 900;
+        width: 200px;
+        display: block;
+        text-align: center;
+        margin:auto;
+      }
+    }
+  }
+
+  .resort-room-info {
+    padding: 15px 30px;
+
+    .resort-room-title {
+      @extend %e7;
+      margin-bottom: 30px;
+    }
+
+    .resort-room-amenities {
+      ul {
+        list-style: none;
+        padding-left: 0;
+        li {
+          @extend %e8;
+          line-height: 1.2rem;
+          margin-bottom: 20px;
+          text-align: left;
+        }
+      }
+    }
+
+    .api-information{
+      font-size: 0.7rem;
+    }
+  }
+
+  .resort-booking-price {
+    text-align: center;
+    p {
+      text-align: center;
+      @extend %e10;
+      span {
+        @extend %e11;
+        display: block;
+        margin-top: .8rem;
+        margin-bottom: .8rem;
+        small {
+          @extend %e11-v1;
+        }
+      }
+    }
+
+    a {
+      background-color: $orange;
+      color: $white;
+      border-radius: 0;
+      padding: 0.5rem 2rem;
+      text-transform: uppercase;
+    }
+
+    .discount{
+      display: block;
+      text-decoration: line-through;
+      line-height: normal;
+      font-size: 17px;
+    }
+  }
+}
+
+@media all and (max-width: 768px) {
+  .resort-room-about {
+    .resort-room-image {
+      height: 200px;
+    }
+    .resort-room-info {
+      .resort-room-title {
+        margin-bottom: 20px;
+      }
+      .resort-room-amenities ul{
+        margin-bottom: 0;
+        li{
+          margin-bottom: 15px;
+        }
+      }
+    }
+  }
+}
+
+@media all and (max-width: 783px) {
+   #things-to-do .ul .li{ font-size: 10px }
+}
+@media all and (max-width: 767px) {
+  .things-to-do {
+    display: block !important;
+    img{width: 100%}
+  }
+  #things-to-do{display: none;}
+}
+
+.restaurants-nav {
+  white-space: nowrap;
+  text-align: center;
+  .title {
+    text-align: center;
+    padding: 1.3rem 1rem;
+  }
+}
+
+#things-to-do{
+  .ul{
+    .li{
+      cursor: pointer;
+      list-style: none;
+      margin-bottom: 5px;
+      img{
+        width: 60px;
+      }
+      span{
+        margin-left: 5px;
+      }
+    }
+  }
+}
+
+.things-to-do {
+  .slick-slide {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+  }
+}
+
+.marker-resort{
+  color:blue;
+}

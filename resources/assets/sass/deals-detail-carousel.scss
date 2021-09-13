@@ -1,0 +1,157 @@
+@import "variables";
+@import "utilities";
+@import '~owl.carousel/dist/assets/owl.carousel.css';
+
+.desc-offer{
+    .h1{
+        @extend %h1;
+        text-align: center;
+    }
+    .h3{
+        @extend %h3;
+        text-align: center;
+    }
+
+    .p{
+        max-width: 60%;
+        margin: auto;
+
+        p{
+            text-align: center;
+        }
+    }
+}
+
+.deals-resort{
+    .bg-light-gray{
+        background: none;
+    }
+
+    .title-block{
+        //padding-left: 50px;
+        //padding-right: 50px;
+
+        h2, .h2{
+            @include h2;
+            text-transform: initial;
+        }
+
+        span{
+           margin-left: 5px;
+        }
+
+    }
+
+    .card-resort{
+        box-shadow: none;
+        transition: 0.3s;
+        border: 1px solid #ddd;
+
+        &:hover{
+            box-shadow: 2px 2px 9px rgba(0, 173, 238, 0.5);
+            //transform: translateX(0) scale(1.04);
+        }
+
+        .card-header {
+            .private-offer > div:first-child{
+                width: 52%;
+            }
+            .private-offer > div:last-child{
+                background: $white ;
+                color: $blue;
+            }
+        }
+
+        .card-body ul{
+            list-style: initial;
+        }
+    }
+}
+
+.owl-carousel{
+   //padding-left: 50px;
+   //padding-right: 50px;
+    margin:auto;
+
+    .owl-stage {
+        display: flex;
+        padding: 2px;
+    }
+
+    .owl-item {
+        transition: 0.6s;
+        padding: 2px;
+        //padding: 24px;
+
+        & > div{
+            height: 100%;
+        }
+    }
+
+    .owl-nav button{
+        position: absolute;
+        height: 100%;
+        top: 0;
+
+        &:focus{
+            outline: none;
+        }
+
+        span{
+            font-size: 70px;
+            color: #0C2D63;
+        }
+
+        &.owl-next {
+            right: 0;
+        }
+
+        &.owl-prev {
+            left: 0;
+        }
+    }
+
+    .owl-dots {
+        text-align: center;
+        .owl-dot{
+            outline: none;
+            cursor: pointer;
+             span {
+                width: 13px;
+                height: 13px;
+                margin: 5px 7px;
+                background: #C4C4C4;
+                display: block;
+                transition: opacity .2s ease;
+                border-radius: 30px;
+            }
+
+            &.active span{
+                background: #5B5B5B;
+            }
+        }
+    }
+
+}
+
+@media  (min-width: 1250px) {
+    .deals-resort{
+        .title-block{
+            padding-left: 50px;
+            padding-right: 50px;
+        }
+    }
+
+    .owl-carousel{
+       padding-left: 50px;
+       padding-right: 50px;
+       
+       .owl-item {
+            padding: 24px;
+        }
+    }
+
+    .owl-dots {
+        display: none;
+    }
+}

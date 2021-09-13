@@ -1,0 +1,445 @@
+.booking {
+  margin-bottom: 2rem;
+  .select2-container {
+    font-family: $input-font-family;
+    font-size: 0.7rem !important;
+
+    .select2-selection {
+      @include border-radius($input-border-radius, 0);
+    }
+    .select2-selection__rendered,
+    .select2-results__option {
+      font-size: 0.7rem !important;
+      line-height: 2rem;
+    }
+
+  }
+  .select2-container--default .select2-selection--single .select2-selection__arrow {
+    height: 100%;
+  }
+}
+
+.combo-booking-result{
+    .select2-results__group{
+      font-weight:700;
+      color:#000;
+    }
+}
+
+.combo-booking-result,
+.combo-booking-result li{
+  font-family: $input-font-family;
+  font-size: 0.7rem !important;
+  span{
+    font-family: $input-font-family;
+    font-size: 0.7rem !important;
+    font-weight:500;
+  }
+  span.destino{
+    font-weight:700;
+    color:#000;
+  }
+}
+
+.boton-booking-now-fixed {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  left: 0;
+  z-index: 2;
+  text-align: center;
+  background: $orange;
+  button {
+    width: 100%;
+    padding-top: .7rem;
+    padding-bottom: .7rem;
+    text-transform: uppercase;
+    font-size: 1.3rem;
+  }
+  img {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    vertical-align: text-top;
+    margin-left: 10px;
+    margin-top: 10px;
+  }
+}
+
+.tooltip-ebb{
+  &.show{
+    opacity: 1;
+  }
+
+  .arrow::before{
+    border-bottom-color: #fff;
+  }
+
+  .tooltip-inner{
+    background: #fff;
+    box-shadow: 0px 4px 10px #0A2550;
+    color: $blue;
+
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'galano-bold';
+    padding: 7px 21px;
+    max-width: 335px;
+    >div {
+      color: #1eabe3;
+    }
+  }
+}
+
+.tooltip-ebb.tooltip-strong{
+  .tooltip-inner{
+    box-shadow: 0px 4px 10px #ea5e00;
+  }
+}
+
+@media all and (max-width: 768px) {
+  #booking-header {
+    width: 100%;
+    top: 0;
+    left: 0;
+    background: #0c2d63;
+    padding: 10px 0 350px;
+    position: fixed;
+    z-index: 10;
+    box-sizing: border-box;
+    height: calc(100% + 300px);
+    overflow: scroll;
+    .booking-interno-container {
+      .btn-booking-close {
+        display: block;
+      }
+    }
+  }
+}
+
+@media all and (min-width: 768px) {
+  #booking-header {
+    position: absolute;
+    z-index: 100;
+    width: 100%;
+    left: 0;
+    top: 100%;
+    & > .container {
+      padding-left: 0;
+      padding-right: 0;
+    }
+  }
+}
+
+@mixin kids-list{
+  .kids {
+    position: relative;
+    .ages{
+      position: absolute;
+      background: #fff;
+      padding: 10px;
+      width: 150px;
+      top: 40px;
+      left: 25px;
+
+      .age{
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        width: 100%;
+        border: 1px solid #e8ebed;
+
+        &:not(:last-child){
+          margin-bottom: 5px;
+        }
+
+        label{
+          margin: 0;
+          color: #000;
+        }
+
+        .select{
+          width: 40%;
+          select{
+            text-align-last:center;
+            box-shadow: none;
+            //color: #dddede;
+            border: none;
+
+            option{
+              //color: #262b2c;
+            }
+
+            &:focus{
+              outline: none;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+#offer_booking_hotel {
+   form{
+     @include kids-list;
+     .ages{
+       top: 70px !important;
+     }
+   }
+}
+
+.booking-interno-container {
+  background: $booking-blue;
+  .btn-booking-close {
+    display: none;
+    button{
+      background-color: #0c2d63;
+      font-weight: bolder;
+      border: none;
+      font-size: 25px;
+    }
+    //cursor: pointer;
+  }
+
+  .contenedor-nav-tabs {
+    background: $booking-blue-dark;
+    .nav-tabs {
+      border-bottom: 0;
+    }
+    .nav-item {
+      width: 50%;
+      .nav-link {
+        @extend %e3;
+        background: $booking-blue-dark;
+        border-color: $booking-blue-dark;
+        color: $white;
+        border-top-left-radius: 0;
+        border-top-right-radius: 0;
+        text-align: center;
+        height: 100%;
+
+        @include hover-focus-active {
+          background: $booking-blue-light;
+          border-color: $booking-blue-light;
+        }
+
+        span {
+          margin: auto;
+        }
+        img {
+          width: 20px;
+          margin-right: 6px;
+        }
+      }
+
+      .nav-link.active {
+        background: $booking-blue-light;
+        border-color: $booking-blue-light;
+      }
+    }
+    .lb_best_deal {
+      display: none;
+      a {
+        color: $white;
+        @include hover {
+          color: $sky-blue;
+        }
+      }
+      img {
+        margin-right: 3px;
+      }
+    }
+  }
+  .contenedor-tabs {
+    .tab-content {
+      padding: 1rem;
+    }
+    form {
+      .booking-interno-inputs {
+        margin-bottom: 1rem;
+        label {
+          color: $light-gray;
+        }
+      }
+      .booking-interno-inputs16 {
+        margin-bottom: 1rem;
+        label {
+          color: $light-gray;
+        }
+      }      
+      .boton-booking-now .btn {
+        width: 100%;
+        text-transform: uppercase;
+      }
+    }
+  }
+  form {
+    .booking-interno-inputs {
+      font-size: 0.7rem;
+
+      label,
+      input,
+      select {
+        font-size: 0.7rem;
+      }
+    }
+    .booking-interno-inputs16 {
+      font-size: 0.7rem;
+
+      label,
+      input,
+      select {
+        font-size: 0.7rem;
+      }
+    }
+  }
+}
+
+.booking-interno-container {
+  .je-hotels {
+    .je-tab-content {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      .booking-interno-inputs {
+        width: 48%;
+      }
+      & > div:nth-child(1) {
+        width: 100%;
+      }
+    }
+  }
+
+  .je-hotels-fly {
+    .je-tab-content {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      .booking-interno-inputs {
+        width: 48%;
+      }
+      .booking-interno-inputs16 {
+        width: 48%;
+      }
+      & > div:nth-child(1),
+      & > div:nth-child(2),
+      & > div:nth-child(3) {
+        width: 100%;
+      }
+    }
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .booking-interno-container {
+    .je-hotels {
+      .je-tab-content {
+        .booking-interno-inputs {
+          width: 19%;
+        }
+        & > div:nth-child(1) {
+          width: 60%;
+        }
+      }
+    }
+    .je-hotels-fly {
+      .je-tab-content {
+        .booking-interno-inputs {
+          width: 19%;
+        }
+        .booking-interno-inputs16 {
+          width: 16%;
+        }
+        & > div:nth-child(2),
+        & > div:nth-child(3) {
+          width: 49%;
+        }
+      }
+    }
+  }
+}
+
+
+@media screen and (min-width: 1024px) {
+  .booking-interno-container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 1rem 1.5rem 0 1.5rem;
+    background: $booking-blue;
+    .contenedor-nav-tabs .lb_best_deal {
+      display: flex;
+      font-size: 0.8rem;
+    }
+    .contenedor-nav-tabs {
+      background: transparent;
+    }
+    .contenedor-tabs .tab-content {
+      padding: 0;
+    }
+    .contenedor-nav-tabs .nav-item {
+      width: auto;
+      background: $booking-blue-dark;
+      margin-right: 1rem;
+      border-radius: 0.6rem;
+      overflow: hidden;
+      .nav-link {
+        @include hover-focus-active {
+          border-color: $booking-blue-dark;
+        }
+      }
+    }
+    .contenedor-nav-tabs .nav-item .nav-link.active {
+      background-color: $booking-blue-light;
+      border-color: $booking-blue-light;
+      @include hover-focus-active {
+        border-color: $booking-blue-light;
+      }
+    }
+    form {
+      display: flex;
+      align-items: stretch;
+
+      .je-tab-content {
+        padding-top: 0.8rem;
+        width: 100%;
+      }
+
+      @include kids-list;
+
+      .boton-booking-now {
+        min-width: 150px;
+        padding-left: 1.5rem;
+        display: flex;
+        align-items: center;
+        .btn {
+          padding-top: 0.8rem;
+          padding-bottom: 0.8rem;
+        }
+      }
+    }
+    .je-hotels .je-tab-content {
+      flex-wrap: nowrap;
+      justify-content: space-between;
+      & > div:nth-child(1) {
+        min-width: 300px;
+      }
+      .booking-interno-inputs{
+        width: auto !important;
+        padding: 0 3px;
+        flex-grow: 1;
+        label {
+          white-space: nowrap;
+        }
+      }
+    }
+
+    .je-hotels-fly .je-tab-content {
+      & > div:nth-child(1),
+      & > div:nth-child(2),
+      & > div:nth-child(3) {
+        width: 32.5%;
+      }
+    }
+  }
+}

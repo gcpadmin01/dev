@@ -1,0 +1,73 @@
+@import '~owl.carousel/dist/assets/owl.carousel.css';
+
+
+.owl-theme{
+    .owl-item{
+        overflow: hidden;
+    }
+    .owl-stage-outer{
+        padding-top:10px;
+        padding-bottom:10px;
+    }
+    .owl-dots {
+        text-align: center;
+        .owl-dot{
+            outline: none;
+            cursor: pointer;
+             span {
+                width: 13px;
+                height: 13px;
+                margin: 5px 7px;
+                background: #C4C4C4;
+                display: block;
+                transition: opacity .2s ease;
+                border-radius: 30px;
+            }
+
+            &.active span{
+                background: #5B5B5B;
+            }
+        }
+    }
+    .h-card{
+        height: 593.95px;
+    }
+}
+
+@media (min-width: 601px) {
+    .box-b1{
+        background: linear-gradient(180deg, 
+            rgba(0, 173, 238, 0.2) 0%, 
+            rgba(0, 173, 238, 0) 100%);
+    }
+
+    .owl-theme{
+        .owl-item{
+            transform: translateX(0) scale(.8);
+            transition: 0.6s;
+            overflow: hidden;
+        }
+        .active.center{
+            transform: translateX(0) scale(1);
+            .card-resort{
+                box-shadow: 2px 2px 9px rgba(0,173,238, 0.5);
+            }
+        }
+    }
+}
+
+.resort-rooms{
+    .title-resort-min{
+        font-weight: 400;
+        margin-top: -30px;
+        font-style: italic;
+        color:#262b2c;
+        font-size: 13px;
+    }
+}
+
+@media (min-width: 375px) {
+    .card-resort{
+        box-shadow: none;
+    }
+}

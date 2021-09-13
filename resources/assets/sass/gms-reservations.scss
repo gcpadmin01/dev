@@ -1,0 +1,59 @@
+@import 'utilities';
+
+.gms {
+    .nav-container{
+        margin-left: 0px;
+        margin-bottom: 20px;
+    }
+    .nav-container ul li{
+        width: 50%;
+        a{
+            display: block;
+            margin: 0px;
+        }
+    }
+
+    .reservations{
+        .card{
+            background-color: rgba(30, 171, 227, 0.1);
+            margin-bottom: 5px;
+
+            .card-header{
+                button {
+                    display: block;
+                    width: 100%;
+                    text-align: left;
+                    padding: 0;
+                }
+                h4{
+                    @extend %h4;
+                    text-transform: uppercase;
+                }
+                p{
+                    @extend %h5;
+                    margin-bottom: 0px;
+                }
+                .stars {
+                    vertical-align:text-bottom;
+                }
+            }
+
+            .card-body{
+                .img-hotel-booking{
+                    overflow: hidden;
+                }
+                .img-hotel-booking img{
+                    width: 100%;
+                }
+
+                .btn-reservation{
+                    background-color: #0c2d63;
+                    color: #fff;
+                    padding: 10px 20px;
+                    font-weight: 600;
+                    font-size: 12px;
+                }
+            }
+        }
+    }
+}

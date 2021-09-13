@@ -1,0 +1,68 @@
+.section-resort-room {
+  .resort-room {
+    .resort-room-image{
+        height: inherit;
+        .gallery,
+        .rooms-gallery,
+        .slick-list,
+        .slick-track,
+        {
+          height: 100%;
+        }
+
+        .rooms-gallery .slick-slide > div{
+          height: 100%;
+        }
+
+        .room-img{
+          background-size: cover;
+          background-position: center ;
+          height: 100%;
+          picture{
+            height: inherit;
+          }
+          img{
+            height: inherit;
+            object-fit: cover;
+          }
+        }
+        .resort-new-room{
+            position: absolute;
+            width: 100%;
+            bottom: 10px;
+
+            span{
+                background-color: #fff;
+                padding: 10px 30px 10px 30px;
+                font-weight: 900;
+                width: 200px;
+                display: block;
+                text-align: center;
+                margin:auto;
+            }
+        }
+    }
+    .resort-room-title {
+      margin-bottom: 5px;
+      display: block;
+    }
+    .resort-room-amenities ul li {
+      margin-bottom: 10px;
+    }
+    .resort-room-description ul {
+      @extend %e8;
+      padding-left: 17px;
+      li {
+        line-height: 1.2rem;
+      }
+    }
+    .resort-booking {
+      border-top: 1px solid $dark-gray;
+    }
+    .btn-room-booking {
+      background: $orange;
+      border-radius: 0;
+      padding: 0.5rem 2rem;
+    }
+  }
+}

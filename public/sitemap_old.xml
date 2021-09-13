@@ -1,0 +1,1616 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+    <!-- HOME -->
+    <url>
+        <loc>https://royalreservations.com</loc>
+        <xhtml:link  href="https://royalreservations.com/es" rel="alternate" hreflang="es"/>
+        <xhtml:link  href="https://royalreservations.com" rel="alternate" hreflang="en"/>
+    </url>       
+
+    <!-- Destinos -->
+    <url>
+      <loc>https://royalreservations.com/beach-destinations</loc>
+      <xhtml:link  href="https://royalreservations.com/es/destinos-de-playa" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-destinations" rel="alternate" hreflang="en"/>
+    </url>
+    <!-- Destinos  Cancun-->
+    <url>
+      <loc>https://royalreservations.com/beach-destinations/cancun/things-to-do-in-cancun</loc>
+      <xhtml:link  href="https://royalreservations.com/es/destinos-de-playa/cancun/que-hacer-en-cancun" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-destinations/cancun/things-to-do-in-cancun" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-destinations/cancun/vacation-special-offers-in-cancun</loc>
+      <xhtml:link  href="https://royalreservations.com/es/destinos-de-playa/cancun/ofertas-de-hoteles-en-cancun" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-destinations/cancun/vacation-special-offers-in-cancun" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-destinations/cancun/the-best-beach-resorts-in-cancun</loc>
+      <xhtml:link  href="https://royalreservations.com/es/destinos-de-playa/cancun/los-mejores-hoteles-de-playa-en-cancun" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-destinations/cancun/the-best-beach-resorts-in-cancun" rel="alternate" hreflang="en"/>
+    </url>    
+
+    <!-- Destinos Riviera Maya -->
+    <url>
+      <loc>https://royalreservations.com/beach-destinations/riviera-maya/things-to-do-in-riviera-maya</loc>
+      <xhtml:link  href="https://royalreservations.com/es/destinos-de-playa/riviera-maya/que-hacer-en-riviera-maya" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-destinations/riviera-maya/things-to-do-in-riviera-maya" rel="alternate" hreflang="en"/>
+    </url>
+
+    <url>
+      <loc>https://royalreservations.com/beach-destinations/riviera-maya/vacation-special-offers-in-riviera-maya</loc>
+      <xhtml:link  href="https://royalreservations.com/es/destinos-de-playa/riviera-maya/ofertas-de-hoteles-en-riviera-maya" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-destinations/riviera-maya/vacation-special-offers-in-riviera-maya" rel="alternate" hreflang="en"/>
+    </url>
+
+    <url>
+      <loc>https://royalreservations.com/beach-destinations/riviera-maya/the-best-beach-resorts-in-riviera-maya</loc>
+      <xhtml:link  href="https://royalreservations.com/es/destinos-de-playa/riviera-maya/los-mejores-hoteles-de-playa-en-riviera-maya" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-destinations/riviera-maya/the-best-beach-resorts-in-riviera-maya" rel="alternate" hreflang="en"/>
+    </url>
+
+    <!-- Destinos Playa del carmen -->
+    <url>
+      <loc>https://royalreservations.com/beach-destinations/playa-del-carmen/things-to-do-in-playa-del-carmen</loc>
+      <xhtml:link  href="https://royalreservations.com/es/destinos-de-playa/playa-del-carmen/que-hacer-en-playa-del-carmen" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-destinations/playa-del-carmen/things-to-do-in-playa-del-carmen" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-destinations/playa-del-carmen/vacation-special-offers-in-playa-del-carmen</loc>
+      <xhtml:link  href="https://royalreservations.com/es/destinos-de-playa/playa-del-carmen/ofertas-de-hoteles-en-playa-del-carmen" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-destinations/playa-del-carmen/vacation-special-offers-in-playa-del-carmen" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-destinations/playa-del-carmen/the-best-beach-resorts-in-playa-del-carmen</loc>
+      <xhtml:link  href="https://royalreservations.com/es/destinos-de-playa/playa-del-carmen/los-mejores-hoteles-de-playa-en-playa-del-carmen" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-destinations/playa-del-carmen/the-best-beach-resorts-in-playa-del-carmen" rel="alternate" hreflang="en"/>
+    </url>
+
+
+    <!-- Destinos puerto morelos -->
+    <url>
+      <loc>https://royalreservations.com/beach-destinations/puerto-morelos/things-to-do-in-puerto-morelos</loc>
+      <xhtml:link  href="https://royalreservations.com/es/destinos-de-playa/puerto-morelos/que-hacer-en-puerto-morelos" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-destinations/puerto-morelos/things-to-do-in-puerto-morelos" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-destinations/puerto-morelos/vacation-special-offers-in-puerto-morelos</loc>
+      <xhtml:link  href="https://royalreservations.com/es/destinos-de-playa/puerto-morelos/ofertas-de-hoteles-en-puerto-morelos" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-destinations/puerto-morelos/vacation-special-offers-in-puerto-morelos" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-destinations/puerto-morelos/the-best-beach-resorts-in-puerto-morelos</loc>
+      <xhtml:link  href="https://royalreservations.com/es/destinos-de-playa/puerto-morelos/los-mejores-hoteles-de-playa-en-puerto-morelos" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-destinations/puerto-morelos/the-best-beach-resorts-in-puerto-morelos" rel="alternate" hreflang="en"/>
+    </url>
+
+    <!-- Sint Maarten/ Philipsburg -->
+    <url>
+      <loc>https://royalreservations.com/beach-destinations/st-maarten/things-to-do-in-st-maarten</loc>
+      <xhtml:link  href="https://royalreservations.com/es/destinos-de-playa/st-maarten/que-hacer-en-st-maarten" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-destinations/st-maarten/things-to-do-in-st-maarten" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-destinations/st-maarten/vacation-special-offers-in-st-maarten</loc>
+      <xhtml:link  href="https://royalreservations.com/es/destinos-de-playa/st-maarten/ofertas-de-hoteles-en-st-maarten" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-destinations/st-maarten/vacation-special-offers-in-st-maarten" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-destinations/st-maarten/the-best-beach-resorts-in-st-maarten</loc>
+      <xhtml:link  href="https://royalreservations.com/es/destinos-de-playa/st-maarten/los-mejores-hoteles-de-playa-en-st-maarten" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-destinations/st-maarten/the-best-beach-resorts-in-st-maarten" rel="alternate" hreflang="en"/>
+    </url>
+
+    <!-- Curacao / Willemstad -->
+    <url>
+      <loc>https://royalreservations.com/beach-destinations/curacao/things-to-do-in-curacao</loc>
+      <xhtml:link  href="https://royalreservations.com/es/destinos-de-playa/curacao/que-hacer-en-curacao" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-destinations/curacao/things-to-do-in-curacao" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-destinations/curacao/vacation-special-offers-in-curacao</loc>
+      <xhtml:link  href="https://royalreservations.com/es/destinos-de-playa/curacao/ofertas-de-hoteles-en-curacao" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-destinations/curacao/vacation-special-offers-in-curacao" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-destinations/curacao/the-best-beach-resorts-in-curacao</loc>
+      <xhtml:link  href="https://royalreservations.com/es/destinos-de-playa/curacao/los-mejores-hoteles-de-playa-en-curacao" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-destinations/curacao/the-best-beach-resorts-in-curacao" rel="alternate" hreflang="en"/>
+    </url>
+
+    <!-- Punta Cana -->
+    <url>
+      <loc>https://royalreservations.com/beach-destinations/punta-cana/things-to-do-in-punta-cana</loc>
+      <xhtml:link  href="https://royalreservations.com/es/destinos-de-playa/punta-cana/que-hacer-en-punta-cana" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-destinations/punta-cana/things-to-do-in-punta-cana" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-destinations/punta-cana/vacation-special-offers-in-punta-cana</loc>
+      <xhtml:link  href="https://royalreservations.com/es/destinos-de-playa/punta-cana/ofertas-de-hoteles-en-punta-cana" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-destinations/punta-cana/vacation-special-offers-in-punta-cana" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-destinations/punta-cana/the-best-beach-resorts-in-punta-cana</loc>
+      <xhtml:link  href="https://royalreservations.com/es/destinos-de-playa/punta-cana/los-mejores-hoteles-de-playa-en-punta-cana" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-destinations/punta-cana/the-best-beach-resorts-in-punta-cana" rel="alternate" hreflang="en"/>
+    </url>
+
+    <!-- Resorts -->
+    <url>
+      <loc>https://royalreservations.com/beach-resorts</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts" rel="alternate" hreflang="en"/>
+    </url>
+
+    <!-- The Royal Sands Resorts & Spa All Inclusive -->
+    <url>
+        <loc>https://royalreservations.com/beach-resorts/the-royal-sands</loc>
+        <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-sands" rel="alternate" hreflang="es"/>
+        <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-sands" rel="alternate" hreflang="en"/>
+    </url>
+
+    <!-- Se retiran las internas de resorts -->
+    <!--
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/the-royal-sands/family-rooms-in-cancun-resort</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-sands/hoteles-en-cancun-con-habitaciones-familiares" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-sands/family-rooms-in-cancun-resort" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/the-royal-sands/resort-in-cancun-with-family-activities</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-sands/hoteles-en-cancun-con-actividades-para-ninos" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-sands/resort-in-cancun-with-family-activities" rel="alternate" hreflang="en"/>
+    </url>    
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/the-royal-sands/restaurants-in-the-royal-sands</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-sands/restaurantes-en-the-royal-sands" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-sands/restaurants-in-the-royal-sands" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/the-royal-sands/cancun-resort-vacation-deals</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-sands/ofertas-de-hoteles-en-cancun" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-sands/cancun-resort-vacation-deals" rel="alternate" hreflang="en"/>
+      <changefreq>monthly</changefreq>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/the-royal-sands/the-royal-sands-resort-photos</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-sands/fotos-del-hotel-the-royal-sands" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-sands/the-royal-sands-resort-photos" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+        <loc>https://royalreservations.com/beach-resorts/the-royal-sands/the-royal-sands-resort-policies</loc>
+        <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-sands/politicas-del-hotel-the-royal-sands" rel="alternate" hreflang="es"/>
+        <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-sands/the-royal-sands-resort-policies" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/the-royal-sands/the-royal-sands-resort-reviews</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-sands/the-royal-sands-hotel-comentarios" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-sands/the-royal-sands-resort-reviews" rel="alternate" hreflang="en"/>
+    </url>
+    -->
+
+    <!-- The Royal Islander All suite Resorts -->
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/the-royal-islander</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-islander" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-islander" rel="alternate" hreflang="en"/>
+    </url>
+
+    <!-- Se retiran las internas de resorts -->
+    <!--
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/the-royal-islander/family-rooms-in-cancun-resort</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-islander/hoteles-en-cancun-con-habitaciones-familiares" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-islander/family-rooms-in-cancun-resort" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/the-royal-islander/resort-in-cancun-with-family-activities</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-islander/hoteles-en-cancun-con-actividades-para-ninos" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-islander/resort-in-cancun-with-family-activities" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/the-royal-islander/restaurants-in-the-royal-islander</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-islander/restaurantes-en-the-royal-islander" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-islander/restaurants-in-the-royal-islander" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/the-royal-islander/cancun-resort-vacation-deals</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-islander/ofertas-de-hoteles-en-cancun" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-islander/cancun-resort-vacation-deals" rel="alternate" hreflang="en"/>
+      <changefreq>monthly</changefreq>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/the-royal-islander/the-royal-islander-resort-photos</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-islander/fotos-del-hotel-the-royal-islander" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-islander/the-royal-islander-resort-photos" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+        <loc>https://royalreservations.com/beach-resorts/the-royal-islander/the-royal-islander-resort-policies</loc>
+        <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-islander/politicas-del-hotel-the-royal-islander" rel="alternate" hreflang="es"/>
+        <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-islander/the-royal-islander-resort-policies" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/the-royal-islander/the-royal-islander-resort-reviews</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-islander/the-royal-islander-hotel-comentarios" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-islander/the-royal-islander-resort-reviews" rel="alternate" hreflang="en"/>
+    </url>
+    -->
+
+    <!-- ROYAL UNO RESORT -->
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/royal-uno</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/royal-uno" rel="alternate" hreflang="es"/> 
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/royal-uno" rel="alternate" hreflang="en"/> 
+    </url>
+
+    <!-- Se retiran las internas de resorts -->
+    <!--
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/royal-uno/family-rooms-in-cancun-resort</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/royal-uno/hoteles-en-cancun-con-habitaciones-familiares" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/royal-uno/family-rooms-in-cancun-resort" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/royal-uno/resort-in-cancun-with-family-activities</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/royal-uno/hoteles-en-cancun-con-actividades-familiares" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/royal-uno/resort-in-cancun-with-family-activities" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/royal-uno/restaurants-in-royal-uno-resort</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/royal-uno/restaurantes-en-royal-uno-resort" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/royal-uno/restaurants-in-royal-uno-resort" rel="alternate" hreflang="en"/>
+    </url>    
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/royal-uno/cancun-resort-deals</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/royal-uno/ofertas-de-hoteles-en-cancun" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/royal-uno/cancun-resort-deals" rel="alternate" hreflang="en"/>
+      <changefreq>monthly</changefreq>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/royal-uno/royal-uno-resort-photos</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/royal-uno/fotos-de-hotel-royal-uno-resort" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/royal-uno/royal-uno-resort-photos" rel="alternate" hreflang="en"/>
+    </url>
+
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/royal-uno/reviews-royal-uno-resort</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/royal-uno/comentarios-royal-uno-resort" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/royal-uno/reviews-royal-uno-resort" rel="alternate" hreflang="en"/>
+    </url>
+
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/royal-uno/royal-uno-resort-policies</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/royal-uno/politicas-del-hotel-royal-uno-resort" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/royal-uno/royal-uno-resort-policies" rel="alternate" hreflang="en"/>
+    </url>    
+    -->
+    <!-- The Royal Cancun All Suites Resorts -->
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/the-royal-cancun</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-cancun" rel="alternate" hreflang="es"/> 
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-cancun" rel="alternate" hreflang="en"/> 
+    </url>
+
+    <!-- Se retiran las internas de resorts -->
+    <!--
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/the-royal-cancun/family-rooms-in-cancun-resort</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-cancun/hoteles-en-cancun-con-habitaciones-familiares" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-cancun/family-rooms-in-cancun-resort" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/the-royal-cancun/resort-in-cancun-with-family-activities</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-cancun/hoteles-en-cancun-con-actividades-para-ninos" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-cancun/resort-in-cancun-with-family-activities" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/the-royal-cancun/restaurants-in-the-royal-cancun</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-cancun/restaurantes-en-the-royal-cancun" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-cancun/restaurants-in-the-royal-cancun" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/the-royal-cancun/cancun-resort-vacation-deals</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-cancun/ofertas-de-hoteles-en-cancun" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-cancun/cancun-resort-vacation-deals" rel="alternate" hreflang="en"/>
+      <changefreq>monthly</changefreq>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/the-royal-cancun/the-royal-cancun-resort-photos</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-cancun/fotos-del-hotel-the-royal-cancun" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-cancun/the-royal-cancun-resort-photos" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+        <loc>https://royalreservations.com/beach-resorts/the-royal-cancun/the-royal-cancun-resort-policies</loc>
+        <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-cancun/politicas-del-hotel-the-royal-cancun" rel="alternate" hreflang="es"/>
+        <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-cancun/the-royal-cancun-resort-policies" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/the-royal-cancun/the-royal-cancun-resort-reviews</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-cancun/the-royal-cancun-hotel-comentarios" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-cancun/the-royal-cancun-resort-reviews" rel="alternate" hreflang="en"/>
+    </url>
+    -->
+
+    <!-- Grand Residences Riviera Cancun Resorts -->
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/grand-residences-riviera-cancun</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/grand-residences-riviera-cancun" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/grand-residences-riviera-cancun" rel="alternate" hreflang="en"/>
+    </url>
+
+    <!-- Se retiran las internas de resorts -->
+    <!--
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/grand-residences-riviera-cancun/luxury-family-rooms-in-riviera-maya</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/grand-residences-riviera-cancun/hoteles-de-lujo-en-riviera-maya-con-habitaciones-familiares" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/grand-residences-riviera-cancun/luxury-family-rooms-in-riviera-maya" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/grand-residences-riviera-cancun/luxury-resort-in-riviera-maya-with-family-activities</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/grand-residences-riviera-cancun/actividades-en-hotel-de-lujo-en-riviera-maya" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/grand-residences-riviera-cancun/luxury-resort-in-riviera-maya-with-family-activities" rel="alternate" hreflang="en"/>
+    </url>            
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/grand-residences-riviera-cancun/luxury-restaurants-in-grand-residences-riviera-cancun</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/grand-residences-riviera-cancun/restaurantes-en-grand-residences-riviera-cancun" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/grand-residences-riviera-cancun/luxury-restaurants-in-grand-residences-riviera-cancun" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/grand-residences-riviera-cancun/luxury-vacation-deals-in-riviera-maya</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/grand-residences-riviera-cancun/promociones-de-hoteles-de-lujo-en-riviera-maya" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/grand-residences-riviera-cancun/luxury-vacation-deals-in-riviera-maya" rel="alternate" hreflang="en"/>
+      <changefreq>monthly</changefreq>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/grand-residences-riviera-cancun/grand-residences-riviera-cancun-photos</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/grand-residences-riviera-cancun/fotos-de-grand-residences-riviera-cancun" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/grand-residences-riviera-cancun/grand-residences-riviera-cancun-photos" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+        <loc>https://royalreservations.com/beach-resorts/grand-residences-riviera-cancun/grand-residences-riviera-cancun-policies</loc>
+        <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/grand-residences-riviera-cancun/politicas-del-hotel-grand-residences-riviera-cancun" rel="alternate" hreflang="es"/>
+        <xhtml:link  href="https://royalreservations.com/beach-resorts/grand-residences-riviera-cancun/grand-residences-riviera-cancun-policies" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+        <loc>https://royalreservations.com/beach-resorts/grand-residences-riviera-cancun/grand-residences-riviera-cancun-resort-reviews</loc>
+        <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/grand-residences-riviera-cancun/grand-residences-riviera-cancun-comentarios" rel="alternate" hreflang="es"/>
+        <xhtml:link  href="https://royalreservations.com/beach-resorts/grand-residences-riviera-cancun/grand-residences-riviera-cancun-resort-reviews" rel="alternate" hreflang="en"/>
+    </url>
+    -->
+
+    <!-- The Royal Haciendas All Suites Resorts & Spa -->
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/the-royal-haciendas</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-haciendas" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-haciendas" rel="alternate" hreflang="en"/>
+    </url>
+
+    <!-- Se retiran las internas de resorts -->
+    <!--
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/the-royal-haciendas/family-rooms-in-playa-del-carmen-resort</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-haciendas/hoteles-en-playa-del-carmen-con-habitaciones-familiares" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-haciendas/family-rooms-in-playa-del-carmen-resort" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/the-royal-haciendas/resort-in-playa-del-carmen-with-family-activities</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-haciendas/hoteles-en-playa-del-carmen-con-actividades-para-ninos" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-haciendas/resort-in-playa-del-carmen-with-family-activities" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/the-royal-haciendas/restaurants-in-the-royal-haciendas</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-haciendas/restaurantes-en-the-royal-haciendas" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-haciendas/restaurants-in-the-royal-haciendas" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/the-royal-haciendas/playa-del-carmen-resort-vacation-deals</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-haciendas/ofertas-de-hoteles-en-playa-del-carmen" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-haciendas/playa-del-carmen-resort-vacation-deals" rel="alternate" hreflang="en"/>
+      <changefreq>monthly</changefreq>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/the-royal-haciendas/the-royal-haciendas-resort-photos</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-haciendas/fotos-del-hotel-the-royal-haciendas" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-haciendas/the-royal-haciendas-resort-photos" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+        <loc>https://royalreservations.com/beach-resorts/the-royal-haciendas/the-royal-haciendas-resort-policies</loc>
+        <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-haciendas/politicas-del-hotel-the-royal-haciendas" rel="alternate" hreflang="es"/>
+        <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-haciendas/the-royal-haciendas-resort-policies" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/the-royal-haciendas/the-royal-haciendas-resort-reviews</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-haciendas/the-royal-haciendas-hotel-comentarios" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-haciendas/the-royal-haciendas-resort-reviews" rel="alternate" hreflang="en"/>
+    </url>
+    -->
+
+    <!-- The Villas at Simpson Bay Beach Resorts & Marina -->
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/the-villas-at-simpson-bay-resort</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-villas-at-simpson-bay-resort" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-villas-at-simpson-bay-resort" rel="alternate" hreflang="en"/>
+    </url>    
+
+    <!-- Se retiran las internas de resorts -->
+    <!--
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/the-villas-at-simpson-bay-resort/rooms-in-st-maarten-island</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-villas-at-simpson-bay-resort/habitaciones-familiares-en-isla-st-maarten" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-villas-at-simpson-bay-resort/rooms-in-st-maarten-island" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/the-villas-at-simpson-bay-resort/resort-in-st-maarten-activities</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-villas-at-simpson-bay-resort/actividades-en-hotel-de-st-maarten" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-villas-at-simpson-bay-resort/resort-in-st-maarten-activities" rel="alternate" hreflang="en"/>
+    </url>    
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/the-villas-at-simpson-bay-resort/restaurants-in-the-villas-at-simpson-bay-resort</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-villas-at-simpson-bay-resort/restaurantes-en-the-villas-at-simpson-bay-resort" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-villas-at-simpson-bay-resort/restaurants-in-the-villas-at-simpson-bay-resort" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/the-villas-at-simpson-bay-resort/st-maarten-island-resort-vacation-deals</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-villas-at-simpson-bay-resort/ofertas-de-hoteles-en-isla-st-maarten" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-villas-at-simpson-bay-resort/st-maarten-island-resort-vacation-deals" rel="alternate" hreflang="en"/>
+      <changefreq>monthly</changefreq>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/the-villas-at-simpson-bay-resort/the-villas-at-simpson-bay-resort-photos</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-villas-at-simpson-bay-resort/fotos-del-hotel-the-villas-at-simpson-bay" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-villas-at-simpson-bay-resort/the-villas-at-simpson-bay-resort-photos" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+        <loc>https://royalreservations.com/beach-resorts/the-villas-at-simpson-bay-resort/the-villas-at-simpson-bay-resort-policies</loc>
+        <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-villas-at-simpson-bay-resort/politicas-del-hotel-the-villas-at-simpson-bay" rel="alternate" hreflang="es"/>
+        <xhtml:link  href="https://royalreservations.com/beach-resorts/the-villas-at-simpson-bay-resort/the-villas-at-simpson-bay-resort-policies" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/the-villas-at-simpson-bay-resort/the-villas-at-simpson-bay-resort-reviews</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-villas-at-simpson-bay-resort/the-villas-at-simpson-bay-resort-comentarios" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-villas-at-simpson-bay-resort/the-villas-at-simpson-bay-resort-reviews" rel="alternate" hreflang="en"/>
+    </url>
+    -->
+
+    <!-- Simpson Bay Beach Resorts & Marina -->
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/simpson-bay-resort</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/simpson-bay-resort" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/simpson-bay-resort" rel="alternate" hreflang="en"/>
+    </url>
+
+
+    <!-- Se retiran las internas de resorts -->
+    <!--
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/simpson-bay-resort/rooms-in-st-maarten-island</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/simpson-bay-resort/habitaciones-familiares-en-isla-st-maarten" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/simpson-bay-resort/rooms-in-st-maarten-island" rel="alternate" hreflang="en"/>
+    </url>        
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/simpson-bay-resort/resort-in-st-maarten-activities</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/simpson-bay-resort/actividades-en-hotel-de-st-maarten" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/simpson-bay-resort/resort-in-st-maarten-activities" rel="alternate" hreflang="en"/>
+    </url>    
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/simpson-bay-resort/restaurants-in-simpson-bay-resort</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/simpson-bay-resort/restaurantes-en-simpson-bay" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/simpson-bay-resort/restaurants-in-simpson-bay-resort" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/simpson-bay-resort/st-maarten-island-resort-vacation-deals</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/simpson-bay-resort/ofertas-de-hoteles-en-isla-st-maarten" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/simpson-bay-resort/st-maarten-island-resort-vacation-deals" rel="alternate" hreflang="en"/>
+      <changefreq>monthly</changefreq>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/simpson-bay-resort/simpson-bay-resort-photos</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/simpson-bay-resort/fotos-del-hotel-simpson-bay-resort" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/simpson-bay-resort/simpson-bay-resort-photos" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+        <loc>https://royalreservations.com/beach-resorts/simpson-bay-resort/simpson-bay-resort-policies</loc>
+        <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/simpson-bay-resort/politicas-del-hotel-simpson-bay-resort" rel="alternate" hreflang="es"/>
+        <xhtml:link  href="https://royalreservations.com/beach-resorts/simpson-bay-resort/simpson-bay-resort-policies" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/simpson-bay-resort/simpson-bay-resort-reviews</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/simpson-bay-resort/simpson-bay-resort-comentarios" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/simpson-bay-resort/simpson-bay-resort-reviews" rel="alternate" hreflang="en"/>
+    </url>
+    -->
+
+    <!-- The Royal Sea Aquarium Resorts -->    
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/the-royal-sea-aquarium</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-sea-aquarium" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-sea-aquarium" rel="alternate" hreflang="en"/>
+    </url>
+
+    <!-- Se retiran las internas de resorts -->
+    <!--
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/the-royal-sea-aquarium/rooms-in-curacao-island</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-sea-aquarium/habitaciones-familiares-en-curacao" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-sea-aquarium/rooms-in-curacao-island" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/the-royal-sea-aquarium/resort-in-curacao-activities</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-sea-aquarium/actividades-en-hotel-de-curacao" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-sea-aquarium/resort-in-curacao-activities" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/the-royal-sea-aquarium/restaurants-in-the-royal-sea-aquarium</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-sea-aquarium/restaurantes-en-the-royal-sea-aquarium" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-sea-aquarium/restaurants-in-the-royal-sea-aquarium" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/the-royal-sea-aquarium/curacao-resort-vacation-deals</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-sea-aquarium/ofertas-de-hoteles-en-curacao" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-sea-aquarium/curacao-resort-vacation-deals" rel="alternate" hreflang="en"/>
+      <changefreq>monthly</changefreq>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/the-royal-sea-aquarium/the-royal-sea-aquarium-resort-photos</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-sea-aquarium/fotos-del-hotel-the-royal-sea-aquarium" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-sea-aquarium/the-royal-sea-aquarium-resort-photos" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+        <loc>https://royalreservations.com/beach-resorts/the-royal-sea-aquarium/the-royal-sea-aquarium-resort-policies</loc>
+        <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-sea-aquarium/politicas-del-hotel-the-royal-sea-aquarium" rel="alternate" hreflang="es"/>
+        <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-sea-aquarium/the-royal-sea-aquarium-resort-policies" rel="alternate" hreflang="en"/>
+    </url>                        
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/the-royal-sea-aquarium/the-royal-sea-aquarium-resort-reviews</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-sea-aquarium/the-royal-sea-aquarium-hotel-comentarios" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-sea-aquarium/the-royal-sea-aquarium-resort-reviews" rel="alternate" hreflang="en"/>
+    </url>
+    -->
+
+
+    <!-- Casa de Campo Resort & Villas -->
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/casa-de-campo</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/casa-de-campo" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/casa-de-campo" rel="alternate" hreflang="en"/>
+    </url>
+
+    <!-- Se retiran las internas de resorts -->
+    <!--
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/casa-de-campo/family-rooms-in-punta-cana</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/casa-de-campo/habitaciones-familiares-en-punta-cana" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/casa-de-campo/family-rooms-in-punta-cana" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/casa-de-campo/resort-in-punta-cana-with-family-activities</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/casa-de-campo/hoteles-en-punta-cana-con-actividades-para-ninos" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/casa-de-campo/resort-in-punta-cana-with-family-activities" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/casa-de-campo/restaurants-in-casa-de-campo</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/casa-de-campo/restaurantes-en-casa-de-campo" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/casa-de-campo/restaurants-in-casa-de-campo" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/casa-de-campo/punta-cana-resort-vacation-deals</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/casa-de-campo/ofertas-de-hoteles-en-punta-cana" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/casa-de-campo/punta-cana-resort-vacation-deals" rel="alternate" hreflang="en"/>
+      <changefreq>monthly</changefreq>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/casa-de-campo/casa-de-campo-resort-photos</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/casa-de-campo/fotos-del-hotel-casa-de-campo" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/casa-de-campo/casa-de-campo-resort-photos" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+        <loc>https://royalreservations.com/beach-resorts/casa-de-campo/casa-de-campo-resort-policies</loc>
+        <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/casa-de-campo/politicas-del-hotel-casa-de-campo" rel="alternate" hreflang="es"/>
+        <xhtml:link  href="https://royalreservations.com/beach-resorts/casa-de-campo/casa-de-campo-resort-policies" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/beach-resorts/casa-de-campo/casa-de-campo-resort-reviews</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/casa-de-campo/casa-de-campo-hotel-comentarios" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/casa-de-campo/casa-de-campo-resort-reviews" rel="alternate" hreflang="en"/>
+    </url>
+    -->
+    <!-- 28/FEB/2020 SE RETIRA ANCORA PUNTA CANA PRIVATE RESIDENCE YACHT CLUB -->
+
+    <!-- Vacation Experiences -->
+    <url>
+      <loc>https://royalreservations.com/vacation-experiences</loc>
+      <xhtml:link  href="https://royalreservations.com/es/experiencias-de-viaje" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/vacation-experiences" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/vacation-experiences/caribbean-golf-trip</loc>
+      <xhtml:link  href="https://royalreservations.com/es/experiencias-de-viaje/vacaciones-golf-en-el-caribe" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/vacation-experiences/caribbean-golf-trip" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/vacation-experiences/romantic-getaway-in-the-caribbean</loc>
+      <xhtml:link  href="https://royalreservations.com/es/experiencias-de-viaje/escape-romantico-al-caribe" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/vacation-experiences/romantic-getaway-in-the-caribbean" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/vacation-experiences/caribbean-family-vacations</loc>
+      <xhtml:link  href="https://royalreservations.com/es/experiencias-de-viaje/vacaciones-familiares-al-caribe" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/vacation-experiences/caribbean-family-vacations" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/vacation-experiences/wellness-and-spa-resorts-in-the-caribbean</loc>
+      <xhtml:link  href="https://royalreservations.com/es/experiencias-de-viaje/hoteles-en-el-caribe-con-spa" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/vacation-experiences/wellness-and-spa-resorts-in-the-caribbean" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/vacation-experiences/business-and-meetings-in-caribbean-resorts</loc>
+      <xhtml:link  href="https://royalreservations.com/es/experiencias-de-viaje/hoteles-en-el-caribe-para-reuniones-y-negocios" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/vacation-experiences/business-and-meetings-in-caribbean-resorts" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/vacation-experiences/honeymoon-destinations-in-the-caribbean</loc>
+      <xhtml:link  href="https://royalreservations.com/es/experiencias-de-viaje/destinos-de-luna-de-miel-en-el-caribe" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/vacation-experiences/honeymoon-destinations-in-the-caribbean" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/vacation-experiences/top-adventure-destinations-in-the-caribbean</loc>
+      <xhtml:link  href="https://royalreservations.com/es/experiencias-de-viaje/los-mejores-destinos-de-aventura-en-el-caribe" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/vacation-experiences/top-adventure-destinations-in-the-caribbean" rel="alternate" hreflang="en"/>
+    </url>
+
+    <!-- Extras -->
+    <url>
+      <loc>https://royalreservations.com/about-us</loc>
+      <xhtml:link  href="https://royalreservations.com/es/acerca-de-nosotros" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/about-us" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/about-us/why-book-with-royalreservations</loc>
+      <xhtml:link  href="https://royalreservations.com/es/acerca-de-nosotros/por-que-reservar-con-royalreservations" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/about-us/why-book-with-royalreservations" rel="alternate" hreflang="en"/>
+    </url>
+
+    <!-- Se Eliminan links por recomendaciones de octopus -->
+    <!--
+    <url>
+      <loc>https://royalreservations.com/about-us/terms-of-use</loc>
+      <xhtml:link  href="https://royalreservations.com/es/acerca-de-nosotros/terminos-de-uso" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/about-us/terms-of-use" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/about-us/privacy-policy</loc>
+      <xhtml:link  href="https://royalreservations.com/es/acerca-de-nosotros/politica-de-privacidad" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/about-us/privacy-policy" rel="alternate" hreflang="en"/>
+    </url>
+    -->
+
+    <url>
+      <loc>https://royalreservations.com/about-us/best-deal-guaranteed</loc>
+      <xhtml:link  href="https://royalreservations.com/es/acerca-de-nosotros/mejor-oferta-garantizada" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/about-us/best-deal-guaranteed" rel="alternate" hreflang="en"/>
+    </url>
+
+    <!-- Specials -->
+    <url>
+      <loc>https://royalreservations.com/deals/hotels</loc>
+      <xhtml:link  href="https://royalreservations.com/es/ofertas/hoteles" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/deals/hotels" rel="alternate" hreflang="en"/>
+      <changefreq>monthly</changefreq>
+    </url>
+
+    <!-- Links de ofertas -->
+
+    <url>
+      <loc>https://royalreservations.com/deals/hotels/free-breakfast</loc>
+      <xhtml:link  href="https://royalreservations.com/es/ofertas/hoteles/desayuno-incluido" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/deals/hotels/free-breakfast" rel="alternate" hreflang="en"/>
+      <changefreq>monthly</changefreq>
+    </url>
+
+    <url>
+      <loc>https://royalreservations.com/deals/hotels/hotel-plus-flight</loc>
+      <xhtml:link  href="https://royalreservations.com/es/ofertas/hoteles/hotel-mas-avion" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/deals/hotels/hotel-plus-flight" rel="alternate" hreflang="en"/>
+      <changefreq>monthly</changefreq>
+    </url>
+
+    <url>
+      <loc>https://royalreservations.com/deals/hotels/special-offers</loc>
+      <xhtml:link  href="https://royalreservations.com/es/ofertas/hoteles/ofertas-especiales" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/deals/hotels/special-offers" rel="alternate" hreflang="en"/>
+      <changefreq>monthly</changefreq>
+    </url>
+
+    <url>
+      <loc>https://royalreservations.com/deals/hotels/flash-sale</loc>
+      <xhtml:link  href="https://royalreservations.com/es/ofertas/hoteles/oferta-flash" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/deals/hotels/flash-sale" rel="alternate" hreflang="en"/>
+      <changefreq>monthly</changefreq>
+    </url>
+
+    <url>
+      <loc>https://royalreservations.com/deals/hotels/last-minute-special-deal</loc>
+      <xhtml:link  href="https://royalreservations.com/es/ofertas/hoteles/oferta-especial-ultimo-minuto" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/deals/hotels/last-minute-special-deal" rel="alternate" hreflang="en"/>
+      <changefreq>monthly</changefreq>
+    </url>
+
+    <url>
+      <loc>https://royalreservations.com/deals/hotels/royal-resorts-hotels</loc>
+      <xhtml:link  href="https://royalreservations.com/es/ofertas/hoteles/hoteles-royal-resorts" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/deals/hotels/royal-resorts-hotels" rel="alternate" hreflang="en"/>
+      <changefreq>monthly</changefreq>
+    </url>
+
+    <url>
+      <loc>https://royalreservations.com/deals/hotels/black-friday</loc>
+      <changefreq>monthly</changefreq>
+    </url>
+
+    <url>
+      <loc>https://royalreservations.com/deals/hotels/royal-resorts-sale</loc>
+      <xhtml:link  href="https://royalreservations.com/es/ofertas/hoteles/venta-royal-resorts" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/deals/hotels/royal-resorts-sale" rel="alternate" hreflang="en"/>
+      <changefreq>monthly</changefreq>
+    </url>
+
+    <url>
+      <loc>https://royalreservations.com/deals/hotels/hotel-plus-flight-special</loc>
+      <xhtml:link  href="https://royalreservations.com/es/ofertas/hoteles/especial-hotel-mas-avion" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/deals/hotels/hotel-plus-flight-special" rel="alternate" hreflang="en"/>
+      <changefreq>monthly</changefreq>
+    </url>
+
+    <url>
+      <loc>https://royalreservations.com/deals/hotels/early-booking-promo</loc>
+      <xhtml:link  href="https://royalreservations.com/es/ofertas/hoteles/promocion-reserva-anticipada" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/deals/hotels/early-booking-promo" rel="alternate" hreflang="en"/>
+      <changefreq>monthly</changefreq>
+    </url>
+
+    <url>
+      <loc>https://royalreservations.com/deals/hotels/easter-season-promotion</loc>
+      <xhtml:link  href="https://royalreservations.com/es/ofertas/hoteles/promocion-semana-santa" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/deals/hotels/easter-season-promotion" rel="alternate" hreflang="en"/>
+      <changefreq>monthly</changefreq>
+    </url>
+
+    <url>
+      <loc>https://royalreservations.com/deals/hotels/deluxe-resorts</loc>
+      <xhtml:link  href="https://royalreservations.com/es/ofertas/hoteles/resorts-deluxe" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/deals/hotels/deluxe-resorts" rel="alternate" hreflang="en"/>
+      <changefreq>monthly</changefreq>
+    </url>
+
+    <url>
+      <loc>https://royalreservations.com/es/ofertas/hoteles/oferta-gran-fin</loc>
+      <changefreq>monthly</changefreq>
+    </url>
+
+    <url>
+      <loc>https://royalreservations.com/es/ofertas/hoteles/descuento-nacionales</loc>
+      <changefreq>monthly</changefreq>
+    </url>
+
+    <url>
+      <loc>https://royalreservations.com/beach-resorts-webcams</loc>
+      <xhtml:link  href="https://royalreservations.com/es/webcams-de-hoteles-de-playa" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts-webcams" rel="alternate" hreflang="en"/>
+    </url>
+
+    <url>
+      <loc>https://royalreservations.com/es/concursos/voy-a-ganar</loc>
+      <changefreq>monthly</changefreq>
+    </url>
+
+    <url>
+      <loc>https://royalreservations.com/gms/register</loc>
+      <xhtml:link  href="https://royalreservations.com/es/gms/register" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/gms/register" rel="alternate" hreflang="en"/>
+    </url>
+
+    <url>
+      <loc>https://royalreservations.com/gms/log-in</loc>
+      <xhtml:link  href="https://royalreservations.com/es/gms/log-in" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/gms/log-in" rel="alternate" hreflang="en"/>
+    </url>
+
+
+    <!-- URLs en espanol -->
+        <!-- HOME -->
+    <url>
+        <loc>https://royalreservations.com/es</loc>
+        <xhtml:link  href="https://royalreservations.com/es" rel="alternate" hreflang="es"/>
+        <xhtml:link  href="https://royalreservations.com" rel="alternate" hreflang="en"/>
+    </url>       
+
+    <!-- Destinos -->
+    <url>
+      <loc>https://royalreservations.com/es/destinos-de-playa</loc>
+      <xhtml:link  href="https://royalreservations.com/es/destinos-de-playa" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-destinations" rel="alternate" hreflang="en"/>
+    </url>
+    <!-- Destinos  Cancun-->
+    <url>
+      <loc>https://royalreservations.com/es/destinos-de-playa/cancun/que-hacer-en-cancun</loc>
+      <xhtml:link  href="https://royalreservations.com/es/destinos-de-playa/cancun/que-hacer-en-cancun" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-destinations/cancun/things-to-do-in-cancun" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/destinos-de-playa/cancun/ofertas-de-hoteles-en-cancun</loc>
+      <xhtml:link  href="https://royalreservations.com/es/destinos-de-playa/cancun/ofertas-de-hoteles-en-cancun" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-destinations/cancun/vacation-special-offers-in-cancun" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/destinos-de-playa/cancun/los-mejores-hoteles-de-playa-en-cancun</loc>
+      <xhtml:link  href="https://royalreservations.com/es/destinos-de-playa/cancun/los-mejores-hoteles-de-playa-en-cancun" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-destinations/cancun/the-best-beach-resorts-in-cancun" rel="alternate" hreflang="en"/>
+    </url>    
+
+    <!-- Destinos Riviera Maya -->
+    <url>
+      <loc>https://royalreservations.com/es/destinos-de-playa/riviera-maya/que-hacer-en-riviera-maya</loc>
+      <xhtml:link  href="https://royalreservations.com/es/destinos-de-playa/riviera-maya/que-hacer-en-riviera-maya" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-destinations/riviera-maya/things-to-do-in-riviera-maya" rel="alternate" hreflang="en"/>
+    </url>
+
+    <url>
+      <loc>https://royalreservations.com/es/destinos-de-playa/riviera-maya/ofertas-de-hoteles-en-riviera-maya</loc>
+      <xhtml:link  href="https://royalreservations.com/es/destinos-de-playa/riviera-maya/ofertas-de-hoteles-en-riviera-maya" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-destinations/riviera-maya/vacation-special-offers-in-riviera-maya" rel="alternate" hreflang="en"/>
+    </url>
+
+    <url>
+      <loc>https://royalreservations.com/es/destinos-de-playa/riviera-maya/los-mejores-hoteles-de-playa-en-riviera-maya</loc>
+      <xhtml:link  href="https://royalreservations.com/es/destinos-de-playa/riviera-maya/los-mejores-hoteles-de-playa-en-riviera-maya" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-destinations/riviera-maya/the-best-beach-resorts-in-riviera-maya" rel="alternate" hreflang="en"/>
+    </url>
+
+    <!-- Destinos Playa del carmen -->
+    <url>
+      <loc>https://royalreservations.com/es/destinos-de-playa/playa-del-carmen/que-hacer-en-playa-del-carmen</loc>
+      <xhtml:link  href="https://royalreservations.com/es/destinos-de-playa/playa-del-carmen/que-hacer-en-playa-del-carmen" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-destinations/playa-del-carmen/things-to-do-in-playa-del-carmen" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/destinos-de-playa/playa-del-carmen/ofertas-de-hoteles-en-playa-del-carmen</loc>
+      <xhtml:link  href="https://royalreservations.com/es/destinos-de-playa/playa-del-carmen/ofertas-de-hoteles-en-playa-del-carmen" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-destinations/playa-del-carmen/vacation-special-offers-in-playa-del-carmen" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/destinos-de-playa/playa-del-carmen/los-mejores-hoteles-de-playa-en-playa-del-carmen</loc>
+      <xhtml:link  href="https://royalreservations.com/es/destinos-de-playa/playa-del-carmen/los-mejores-hoteles-de-playa-en-playa-del-carmen" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-destinations/playa-del-carmen/the-best-beach-resorts-in-playa-del-carmen" rel="alternate" hreflang="en"/>
+    </url>
+
+
+    <!-- Destinos puerto morelos -->
+    <url>
+      <loc>https://royalreservations.com/es/destinos-de-playa/puerto-morelos/que-hacer-en-puerto-morelos</loc>
+      <xhtml:link  href="https://royalreservations.com/es/destinos-de-playa/puerto-morelos/que-hacer-en-puerto-morelos" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-destinations/puerto-morelos/things-to-do-in-puerto-morelos" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/destinos-de-playa/puerto-morelos/ofertas-de-hoteles-en-puerto-morelos</loc>
+      <xhtml:link  href="https://royalreservations.com/es/destinos-de-playa/puerto-morelos/ofertas-de-hoteles-en-puerto-morelos" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-destinations/puerto-morelos/vacation-special-offers-in-puerto-morelos" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/destinos-de-playa/puerto-morelos/los-mejores-hoteles-de-playa-en-puerto-morelos</loc>
+      <xhtml:link  href="https://royalreservations.com/es/destinos-de-playa/puerto-morelos/los-mejores-hoteles-de-playa-en-puerto-morelos" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-destinations/puerto-morelos/the-best-beach-resorts-in-puerto-morelos" rel="alternate" hreflang="en"/>
+    </url>
+
+    <!-- Sint Maarten/ Philipsburg -->
+    <url>
+      <loc>https://royalreservations.com/es/destinos-de-playa/st-maarten/que-hacer-en-st-maarten</loc>
+      <xhtml:link  href="https://royalreservations.com/es/destinos-de-playa/st-maarten/que-hacer-en-st-maarten" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-destinations/st-maarten/things-to-do-in-st-maarten" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/destinos-de-playa/st-maarten/ofertas-de-hoteles-en-st-maarten</loc>
+      <xhtml:link  href="https://royalreservations.com/es/destinos-de-playa/st-maarten/ofertas-de-hoteles-en-st-maarten" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-destinations/st-maarten/vacation-special-offers-in-st-maarten" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/destinos-de-playa/st-maarten/los-mejores-hoteles-de-playa-en-st-maarten</loc>
+      <xhtml:link  href="https://royalreservations.com/es/destinos-de-playa/st-maarten/los-mejores-hoteles-de-playa-en-st-maarten" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-destinations/st-maarten/the-best-beach-resorts-in-st-maarten" rel="alternate" hreflang="en"/>
+    </url>
+
+    <!-- Curacao / Willemstad -->
+    <url>
+      <loc>https://royalreservations.com/es/destinos-de-playa/curacao/que-hacer-en-curacao</loc>
+      <xhtml:link  href="https://royalreservations.com/es/destinos-de-playa/curacao/que-hacer-en-curacao" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-destinations/curacao/things-to-do-in-curacao" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/destinos-de-playa/curacao/ofertas-de-hoteles-en-curacao</loc>
+      <xhtml:link  href="https://royalreservations.com/es/destinos-de-playa/curacao/ofertas-de-hoteles-en-curacao" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-destinations/curacao/vacation-special-offers-in-curacao" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/destinos-de-playa/curacao/los-mejores-hoteles-de-playa-en-curacao</loc>
+      <xhtml:link  href="https://royalreservations.com/es/destinos-de-playa/curacao/los-mejores-hoteles-de-playa-en-curacao" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-destinations/curacao/the-best-beach-resorts-in-curacao" rel="alternate" hreflang="en"/>
+    </url>
+
+    <!-- Punta Cana -->
+    <url>
+      <loc>https://royalreservations.com/es/destinos-de-playa/punta-cana/que-hacer-en-punta-cana</loc>
+      <xhtml:link  href="https://royalreservations.com/es/destinos-de-playa/punta-cana/que-hacer-en-punta-cana" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-destinations/punta-cana/things-to-do-in-punta-cana" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/destinos-de-playa/punta-cana/ofertas-de-hoteles-en-punta-cana</loc>
+      <xhtml:link  href="https://royalreservations.com/es/destinos-de-playa/punta-cana/ofertas-de-hoteles-en-punta-cana" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-destinations/punta-cana/vacation-special-offers-in-punta-cana" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/destinos-de-playa/punta-cana/los-mejores-hoteles-de-playa-en-punta-cana</loc>
+      <xhtml:link  href="https://royalreservations.com/es/destinos-de-playa/punta-cana/los-mejores-hoteles-de-playa-en-punta-cana" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-destinations/punta-cana/the-best-beach-resorts-in-punta-cana" rel="alternate" hreflang="en"/>
+    </url>
+
+    <!-- Resorts -->
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts" rel="alternate" hreflang="en"/>
+    </url>
+
+    <!-- The Royal Sands Resorts & Spa All Inclusive -->
+    <url>
+        <loc>https://royalreservations.com/es/hoteles-de-playa/the-royal-sands</loc>
+        <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-sands" rel="alternate" hreflang="es"/>
+        <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-sands" rel="alternate" hreflang="en"/>
+    </url>
+
+    <!-- Se retiran las internas de resorts -->
+    <!--
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/the-royal-sands/hoteles-en-cancun-con-habitaciones-familiares</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-sands/hoteles-en-cancun-con-habitaciones-familiares" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-sands/family-rooms-in-cancun-resort" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/the-royal-sands/hoteles-en-cancun-con-actividades-para-ninos</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-sands/hoteles-en-cancun-con-actividades-para-ninos" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-sands/resort-in-cancun-with-family-activities" rel="alternate" hreflang="en"/>
+    </url>    
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/the-royal-sands/restaurantes-en-the-royal-sands</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-sands/restaurantes-en-the-royal-sands" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-sands/restaurants-in-the-royal-sands" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/the-royal-sands/ofertas-de-hoteles-en-cancun</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-sands/ofertas-de-hoteles-en-cancun" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-sands/cancun-resort-vacation-deals" rel="alternate" hreflang="en"/>
+      <changefreq>monthly</changefreq>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/the-royal-sands/fotos-del-hotel-the-royal-sands</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-sands/fotos-del-hotel-the-royal-sands" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-sands/the-royal-sands-resort-photos" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+        <loc>https://royalreservations.com/es/hoteles-de-playa/the-royal-sands/politicas-del-hotel-the-royal-sands</loc>
+        <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-sands/politicas-del-hotel-the-royal-sands" rel="alternate" hreflang="es"/>
+        <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-sands/the-royal-sands-resort-policies" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/the-royal-sands/the-royal-sands-hotel-comentarios</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-sands/the-royal-sands-hotel-comentarios" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-sands/the-royal-sands-resort-reviews" rel="alternate" hreflang="en"/>
+    </url>
+    -->
+
+    <!-- The Royal Islander All suite Resorts -->
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/the-royal-islander</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-islander" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-islander" rel="alternate" hreflang="en"/>
+    </url>
+
+    <!-- Se retiran las internas de resorts -->
+    <!--
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/the-royal-islander/hoteles-en-cancun-con-habitaciones-familiares</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-islander/hoteles-en-cancun-con-habitaciones-familiares" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-islander/family-rooms-in-cancun-resort" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/the-royal-islander/hoteles-en-cancun-con-actividades-para-ninos</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-islander/hoteles-en-cancun-con-actividades-para-ninos" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-islander/resort-in-cancun-with-family-activities" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/the-royal-islander/restaurantes-en-the-royal-islander</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-islander/restaurantes-en-the-royal-islander" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-islander/restaurants-in-the-royal-islander" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/the-royal-islander/ofertas-de-hoteles-en-cancun</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-islander/ofertas-de-hoteles-en-cancun" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-islander/cancun-resort-vacation-deals" rel="alternate" hreflang="en"/>
+      <changefreq>monthly</changefreq>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/the-royal-islander/fotos-del-hotel-the-royal-islander</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-islander/fotos-del-hotel-the-royal-islander" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-islander/the-royal-islander-resort-photos" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+        <loc>https://royalreservations.com/es/hoteles-de-playa/the-royal-islander/politicas-del-hotel-the-royal-islander</loc>
+        <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-islander/politicas-del-hotel-the-royal-islander" rel="alternate" hreflang="es"/>
+        <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-islander/the-royal-islander-resort-policies" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/the-royal-islander/the-royal-islander-hotel-comentarios</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-islander/the-royal-islander-hotel-comentarios" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-islander/the-royal-islander-resort-reviews" rel="alternate" hreflang="en"/>
+    </url>
+    -->
+
+    <!-- ROYAL UNO -->
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/royal-uno</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/royal-uno" rel="alternate" hreflang="es"/> 
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/royal-uno" rel="alternate" hreflang="en"/> 
+    </url>
+
+    <!-- Se retiran las internas de resorts -->
+    <!--
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/royal-uno/hoteles-en-cancun-con-habitaciones-familiares</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/royal-uno/hoteles-en-cancun-con-habitaciones-familiares" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/royal-uno/family-rooms-in-cancun-resort" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/royal-uno/hoteles-en-cancun-con-actividades-familiares</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/royal-uno/hoteles-en-cancun-con-actividades-familiares" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/royal-uno/resort-in-cancun-with-family-activities" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/royal-uno/restaurantes-en-royal-uno-resort</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/royal-uno/restaurantes-en-royal-uno-resort" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/royal-uno/restaurants-in-royal-uno-resort" rel="alternate" hreflang="en"/>
+    </url>    
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/royal-uno/ofertas-de-hoteles-en-cancun</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/royal-uno/ofertas-de-hoteles-en-cancun" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/royal-uno/cancun-resort-deals" rel="alternate" hreflang="en"/>
+      <changefreq>monthly</changefreq>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/royal-uno/fotos-de-hotel-royal-uno-resort</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/royal-uno/fotos-de-hotel-royal-uno-resort" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/royal-uno/royal-uno-resort-photos" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/royal-uno/comentarios-royal-uno-resort</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/royal-uno/comentarios-royal-uno-resort" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/royal-uno/reviews-royal-uno-resort" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/royal-uno/politicas-del-hotel-royal-uno-resort</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/royal-uno/politicas-del-hotel-royal-uno-resort" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/royal-uno/royal-uno-resort-policies" rel="alternate" hreflang="en"/>
+    </url>
+    -->
+    <!-- The Royal Cancun All Suites Resorts -->
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/the-royal-cancun</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-cancun" rel="alternate" hreflang="es"/> 
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-cancun" rel="alternate" hreflang="en"/> 
+    </url>
+
+    <!-- Se retiran las internas de resorts -->
+    <!--
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/the-royal-cancun/hoteles-en-cancun-con-habitaciones-familiares</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-cancun/hoteles-en-cancun-con-habitaciones-familiares" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-cancun/family-rooms-in-cancun-resort" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/the-royal-cancun/hoteles-en-cancun-con-actividades-para-ninos</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-cancun/hoteles-en-cancun-con-actividades-para-ninos" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-cancun/resort-in-cancun-with-family-activities" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/the-royal-cancun/restaurantes-en-the-royal-cancun</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-cancun/restaurantes-en-the-royal-cancun" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-cancun/restaurants-in-the-royal-cancun" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/the-royal-cancun/ofertas-de-hoteles-en-cancun</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-cancun/ofertas-de-hoteles-en-cancun" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-cancun/cancun-resort-vacation-deals" rel="alternate" hreflang="en"/>
+      <changefreq>monthly</changefreq>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/the-royal-cancun/fotos-del-hotel-the-royal-cancun</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-cancun/fotos-del-hotel-the-royal-cancun" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-cancun/the-royal-cancun-resort-photos" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+        <loc>https://royalreservations.com/es/hoteles-de-playa/the-royal-cancun/politicas-del-hotel-the-royal-cancun</loc>
+        <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-cancun/politicas-del-hotel-the-royal-cancun" rel="alternate" hreflang="es"/>
+        <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-cancun/the-royal-cancun-resort-policies" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/the-royal-cancun/the-royal-cancun-hotel-comentarios</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-cancun/the-royal-cancun-hotel-comentarios" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-cancun/the-royal-cancun-resort-reviews" rel="alternate" hreflang="en"/>
+    </url>
+    -->
+
+    <!-- Grand Residences Riviera Cancun Resorts -->
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/grand-residences-riviera-cancun</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/grand-residences-riviera-cancun" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/grand-residences-riviera-cancun" rel="alternate" hreflang="en"/>
+    </url>
+
+    <!-- Se retiran las internas de resorts -->
+    <!--
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/grand-residences-riviera-cancun/hoteles-de-lujo-en-riviera-maya-con-habitaciones-familiares</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/grand-residences-riviera-cancun/hoteles-de-lujo-en-riviera-maya-con-habitaciones-familiares" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/grand-residences-riviera-cancun/luxury-family-rooms-in-riviera-maya" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/grand-residences-riviera-cancun/actividades-en-hotel-de-lujo-en-riviera-maya</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/grand-residences-riviera-cancun/actividades-en-hotel-de-lujo-en-riviera-maya" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/grand-residences-riviera-cancun/luxury-resort-in-riviera-maya-with-family-activities" rel="alternate" hreflang="en"/>
+    </url>            
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/grand-residences-riviera-cancun/restaurantes-en-grand-residences-riviera-cancun</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/grand-residences-riviera-cancun/restaurantes-en-grand-residences-riviera-cancun" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/grand-residences-riviera-cancun/luxury-restaurants-in-grand-residences-riviera-cancun" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/grand-residences-riviera-cancun/promociones-de-hoteles-de-lujo-en-riviera-maya</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/grand-residences-riviera-cancun/promociones-de-hoteles-de-lujo-en-riviera-maya" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/grand-residences-riviera-cancun/luxury-vacation-deals-in-riviera-maya" rel="alternate" hreflang="en"/>
+      <changefreq>monthly</changefreq>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/grand-residences-riviera-cancun/fotos-de-grand-residences-riviera-cancun</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/grand-residences-riviera-cancun/fotos-de-grand-residences-riviera-cancun" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/grand-residences-riviera-cancun/grand-residences-riviera-cancun-photos" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+        <loc>https://royalreservations.com/es/hoteles-de-playa/grand-residences-riviera-cancun/politicas-del-hotel-grand-residences-riviera-cancun</loc>
+        <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/grand-residences-riviera-cancun/politicas-del-hotel-grand-residences-riviera-cancun" rel="alternate" hreflang="es"/>
+        <xhtml:link  href="https://royalreservations.com/beach-resorts/grand-residences-riviera-cancun/grand-residences-riviera-cancun-policies" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+        <loc>https://royalreservations.com/es/hoteles-de-playa/grand-residences-riviera-cancun/grand-residences-riviera-cancun-comentarios</loc>
+        <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/grand-residences-riviera-cancun/grand-residences-riviera-cancun-comentarios" rel="alternate" hreflang="es"/>
+        <xhtml:link  href="https://royalreservations.com/beach-resorts/grand-residences-riviera-cancun/grand-residences-riviera-cancun-resort-reviews" rel="alternate" hreflang="en"/>
+    </url>
+    -->
+
+    <!-- The Royal Haciendas All Suites Resorts & Spa -->
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/the-royal-haciendas</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-haciendas" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-haciendas" rel="alternate" hreflang="en"/>
+    </url>
+
+    <!-- Se retiran las internas de resorts -->
+    <!--
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/the-royal-haciendas/hoteles-en-playa-del-carmen-con-habitaciones-familiares</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-haciendas/hoteles-en-playa-del-carmen-con-habitaciones-familiares" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-haciendas/family-rooms-in-playa-del-carmen-resort" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/the-royal-haciendas/hoteles-en-playa-del-carmen-con-actividades-para-ninos</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-haciendas/hoteles-en-playa-del-carmen-con-actividades-para-ninos" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-haciendas/resort-in-playa-del-carmen-with-family-activities" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/the-royal-haciendas/restaurantes-en-the-royal-haciendas</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-haciendas/restaurantes-en-the-royal-haciendas" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-haciendas/restaurants-in-the-royal-haciendas" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/the-royal-haciendas/ofertas-de-hoteles-en-playa-del-carmen</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-haciendas/ofertas-de-hoteles-en-playa-del-carmen" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-haciendas/playa-del-carmen-resort-vacation-deals" rel="alternate" hreflang="en"/>
+      <changefreq>monthly</changefreq>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/the-royal-haciendas/fotos-del-hotel-the-royal-haciendas</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-haciendas/fotos-del-hotel-the-royal-haciendas" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-haciendas/the-royal-haciendas-resort-photos" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+        <loc>https://royalreservations.com/es/hoteles-de-playa/the-royal-haciendas/politicas-del-hotel-the-royal-haciendas</loc>
+        <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-haciendas/politicas-del-hotel-the-royal-haciendas" rel="alternate" hreflang="es"/>
+        <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-haciendas/the-royal-haciendas-resort-policies" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/the-royal-haciendas/the-royal-haciendas-hotel-comentarios</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-haciendas/the-royal-haciendas-hotel-comentarios" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-haciendas/the-royal-haciendas-resort-reviews" rel="alternate" hreflang="en"/>
+    </url>
+    -->
+
+    <!-- The Villas at Simpson Bay Beach Resorts & Marina -->
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/the-villas-at-simpson-bay-resort</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-villas-at-simpson-bay-resort" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-villas-at-simpson-bay-resort" rel="alternate" hreflang="en"/>
+    </url>    
+
+    <!-- Se retiran las internas de resorts -->
+    <!--
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/the-villas-at-simpson-bay-resort/habitaciones-familiares-en-isla-st-maarten</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-villas-at-simpson-bay-resort/habitaciones-familiares-en-isla-st-maarten" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-villas-at-simpson-bay-resort/rooms-in-st-maarten-island" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/the-villas-at-simpson-bay-resort/actividades-en-hotel-de-st-maarten</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-villas-at-simpson-bay-resort/actividades-en-hotel-de-st-maarten" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-villas-at-simpson-bay-resort/resort-in-st-maarten-activities" rel="alternate" hreflang="en"/>
+    </url>    
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/the-villas-at-simpson-bay-resort/restaurantes-en-the-villas-at-simpson-bay-resort</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-villas-at-simpson-bay-resort/restaurantes-en-the-villas-at-simpson-bay-resort" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-villas-at-simpson-bay-resort/restaurants-in-the-villas-at-simpson-bay-resort" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/the-villas-at-simpson-bay-resort/ofertas-de-hoteles-en-isla-st-maarten</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-villas-at-simpson-bay-resort/ofertas-de-hoteles-en-isla-st-maarten" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-villas-at-simpson-bay-resort/st-maarten-island-resort-vacation-deals" rel="alternate" hreflang="en"/>
+      <changefreq>monthly</changefreq>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/the-villas-at-simpson-bay-resort/fotos-del-hotel-the-villas-at-simpson-bay</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-villas-at-simpson-bay-resort/fotos-del-hotel-the-villas-at-simpson-bay" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-villas-at-simpson-bay-resort/the-villas-at-simpson-bay-resort-photos" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+        <loc>https://royalreservations.com/es/hoteles-de-playa/the-villas-at-simpson-bay-resort/politicas-del-hotel-the-villas-at-simpson-bay</loc>
+        <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-villas-at-simpson-bay-resort/politicas-del-hotel-the-villas-at-simpson-bay" rel="alternate" hreflang="es"/>
+        <xhtml:link  href="https://royalreservations.com/beach-resorts/the-villas-at-simpson-bay-resort/the-villas-at-simpson-bay-resort-policies" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/the-villas-at-simpson-bay-resort/the-villas-at-simpson-bay-resort-comentarios</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-villas-at-simpson-bay-resort/the-villas-at-simpson-bay-resort-comentarios" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-villas-at-simpson-bay-resort/the-villas-at-simpson-bay-resort-reviews" rel="alternate" hreflang="en"/>
+    </url>
+    -->
+
+    <!-- Simpson Bay Beach Resorts & Marina -->
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/simpson-bay-resort</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/simpson-bay-resort" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/simpson-bay-resort" rel="alternate" hreflang="en"/>
+    </url>
+
+    <!-- Se retiran las internas de resorts -->
+    <!--
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/simpson-bay-resort/habitaciones-familiares-en-isla-st-maarten</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/simpson-bay-resort/habitaciones-familiares-en-isla-st-maarten" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/simpson-bay-resort/rooms-in-st-maarten-island" rel="alternate" hreflang="en"/>
+    </url>        
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/simpson-bay-resort/actividades-en-hotel-de-st-maarten</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/simpson-bay-resort/actividades-en-hotel-de-st-maarten" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/simpson-bay-resort/resort-in-st-maarten-activities" rel="alternate" hreflang="en"/>
+    </url>    
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/simpson-bay-resort/restaurantes-en-simpson-bay</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/simpson-bay-resort/restaurantes-en-simpson-bay" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/simpson-bay-resort/restaurants-in-simpson-bay-resort" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/simpson-bay-resort/ofertas-de-hoteles-en-isla-st-maarten</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/simpson-bay-resort/ofertas-de-hoteles-en-isla-st-maarten" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/simpson-bay-resort/st-maarten-island-resort-vacation-deals" rel="alternate" hreflang="en"/>
+      <changefreq>monthly</changefreq>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/simpson-bay-resort/fotos-del-hotel-simpson-bay-resort</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/simpson-bay-resort/fotos-del-hotel-simpson-bay-resort" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/simpson-bay-resort/simpson-bay-resort-photos" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+        <loc>https://royalreservations.com/es/hoteles-de-playa/simpson-bay-resort/politicas-del-hotel-simpson-bay-resort</loc>
+        <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/simpson-bay-resort/politicas-del-hotel-simpson-bay-resort" rel="alternate" hreflang="es"/>
+        <xhtml:link  href="https://royalreservations.com/beach-resorts/simpson-bay-resort/simpson-bay-resort-policies" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/simpson-bay-resort/simpson-bay-resort-comentarios</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/simpson-bay-resort/simpson-bay-resort-comentarios" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/simpson-bay-resort/simpson-bay-resort-reviews" rel="alternate" hreflang="en"/>
+    </url>
+    -->
+
+    <!-- The Royal Sea Aquarium Resorts -->    
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/the-royal-sea-aquarium</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-sea-aquarium" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-sea-aquarium" rel="alternate" hreflang="en"/>
+    </url>
+
+    <!-- Se retiran las internas de resorts -->
+    <!--
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/the-royal-sea-aquarium/habitaciones-familiares-en-curacao</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-sea-aquarium/habitaciones-familiares-en-curacao" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-sea-aquarium/rooms-in-curacao-island" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/the-royal-sea-aquarium/actividades-en-hotel-de-curacao</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-sea-aquarium/actividades-en-hotel-de-curacao" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-sea-aquarium/resort-in-curacao-activities" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/the-royal-sea-aquarium/restaurantes-en-the-royal-sea-aquarium</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-sea-aquarium/restaurantes-en-the-royal-sea-aquarium" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-sea-aquarium/restaurants-in-the-royal-sea-aquarium" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/the-royal-sea-aquarium/ofertas-de-hoteles-en-curacao</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-sea-aquarium/ofertas-de-hoteles-en-curacao" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-sea-aquarium/curacao-resort-vacation-deals" rel="alternate" hreflang="en"/>
+      <changefreq>monthly</changefreq>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/the-royal-sea-aquarium/fotos-del-hotel-the-royal-sea-aquarium</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-sea-aquarium/fotos-del-hotel-the-royal-sea-aquarium" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-sea-aquarium/the-royal-sea-aquarium-resort-photos" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+        <loc>https://royalreservations.com/es/hoteles-de-playa/the-royal-sea-aquarium/politicas-del-hotel-the-royal-sea-aquarium</loc>
+        <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-sea-aquarium/politicas-del-hotel-the-royal-sea-aquarium" rel="alternate" hreflang="es"/>
+        <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-sea-aquarium/the-royal-sea-aquarium-resort-policies" rel="alternate" hreflang="en"/>
+    </url>                        
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/the-royal-sea-aquarium/the-royal-sea-aquarium-hotel-comentarios</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/the-royal-sea-aquarium/the-royal-sea-aquarium-hotel-comentarios" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/the-royal-sea-aquarium/the-royal-sea-aquarium-resort-reviews" rel="alternate" hreflang="en"/>
+    </url>
+    -->
+
+    <!-- Casa de Campo Resort & Villas -->
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/casa-de-campo</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/casa-de-campo" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/casa-de-campo" rel="alternate" hreflang="en"/>
+    </url>
+
+    <!-- Se retiran las internas de resorts -->
+    <!--
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/casa-de-campo/habitaciones-familiares-en-punta-cana</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/casa-de-campo/habitaciones-familiares-en-punta-cana" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/casa-de-campo/family-rooms-in-punta-cana" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/casa-de-campo/hoteles-en-punta-cana-con-actividades-para-ninos</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/casa-de-campo/hoteles-en-punta-cana-con-actividades-para-ninos" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/casa-de-campo/resort-in-punta-cana-with-family-activities" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/casa-de-campo/restaurantes-en-casa-de-campo</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/casa-de-campo/restaurantes-en-casa-de-campo" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/casa-de-campo/restaurants-in-casa-de-campo" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/casa-de-campo/ofertas-de-hoteles-en-punta-cana</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/casa-de-campo/ofertas-de-hoteles-en-punta-cana" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/casa-de-campo/punta-cana-resort-vacation-deals" rel="alternate" hreflang="en"/>
+      <changefreq>monthly</changefreq>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/casa-de-campo/fotos-del-hotel-casa-de-campo</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/casa-de-campo/fotos-del-hotel-casa-de-campo" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/casa-de-campo/casa-de-campo-resort-photos" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+        <loc>https://royalreservations.com/es/hoteles-de-playa/casa-de-campo/politicas-del-hotel-casa-de-campo</loc>
+        <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/casa-de-campo/politicas-del-hotel-casa-de-campo" rel="alternate" hreflang="es"/>
+        <xhtml:link  href="https://royalreservations.com/beach-resorts/casa-de-campo/casa-de-campo-resort-policies" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/hoteles-de-playa/casa-de-campo/casa-de-campo-hotel-comentarios</loc>
+      <xhtml:link  href="https://royalreservations.com/es/hoteles-de-playa/casa-de-campo/casa-de-campo-hotel-comentarios" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts/casa-de-campo/casa-de-campo-resort-reviews" rel="alternate" hreflang="en"/>
+    </url>
+    -->
+
+    <!-- SE RETIRA 28/FEB/2020 ANCORA PUNTA CANA PRIVATE RESIDENCE YACHT CLUB -->
+
+    <!-- Vacation Experiences -->
+    <url>
+      <loc>https://royalreservations.com/es/experiencias-de-viaje</loc>
+      <xhtml:link  href="https://royalreservations.com/es/experiencias-de-viaje" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/vacation-experiences" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/experiencias-de-viaje/vacaciones-golf-en-el-caribe</loc>
+      <xhtml:link  href="https://royalreservations.com/es/experiencias-de-viaje/vacaciones-golf-en-el-caribe" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/vacation-experiences/caribbean-golf-trip" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/experiencias-de-viaje/escape-romantico-al-caribe</loc>
+      <xhtml:link  href="https://royalreservations.com/es/experiencias-de-viaje/escape-romantico-al-caribe" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/vacation-experiences/romantic-getaway-in-the-caribbean" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/experiencias-de-viaje/vacaciones-familiares-al-caribe</loc>
+      <xhtml:link  href="https://royalreservations.com/es/experiencias-de-viaje/vacaciones-familiares-al-caribe" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/vacation-experiences/caribbean-family-vacations" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/experiencias-de-viaje/hoteles-en-el-caribe-con-spa</loc>
+      <xhtml:link  href="https://royalreservations.com/es/experiencias-de-viaje/hoteles-en-el-caribe-con-spa" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/vacation-experiences/wellness-and-spa-resorts-in-the-caribbean" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/experiencias-de-viaje/hoteles-en-el-caribe-para-reuniones-y-negocios</loc>
+      <xhtml:link  href="https://royalreservations.com/es/experiencias-de-viaje/hoteles-en-el-caribe-para-reuniones-y-negocios" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/vacation-experiences/business-and-meetings-in-caribbean-resorts" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/experiencias-de-viaje/destinos-de-luna-de-miel-en-el-caribe</loc>
+      <xhtml:link  href="https://royalreservations.com/es/experiencias-de-viaje/destinos-de-luna-de-miel-en-el-caribe" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/vacation-experiences/honeymoon-destinations-in-the-caribbean" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/experiencias-de-viaje/los-mejores-destinos-de-aventura-en-el-caribe</loc>
+      <xhtml:link  href="https://royalreservations.com/es/experiencias-de-viaje/los-mejores-destinos-de-aventura-en-el-caribe" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/vacation-experiences/top-adventure-destinations-in-the-caribbean" rel="alternate" hreflang="en"/>
+    </url>
+
+    <!-- Extras -->
+    <url>
+      <loc>https://royalreservations.com/es/acerca-de-nosotros</loc>
+      <xhtml:link  href="https://royalreservations.com/es/acerca-de-nosotros" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/about-us" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/acerca-de-nosotros/por-que-reservar-con-royalreservations</loc>
+      <xhtml:link  href="https://royalreservations.com/es/acerca-de-nosotros/por-que-reservar-con-royalreservations" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/about-us/why-book-with-royalreservations" rel="alternate" hreflang="en"/>
+    </url>
+
+    <!-- Se Eliminan links por recomendaciones de octopus -->
+    <!--
+    <url>
+      <loc>https://royalreservations.com/es/acerca-de-nosotros/terminos-de-uso</loc>
+      <xhtml:link  href="https://royalreservations.com/es/acerca-de-nosotros/terminos-de-uso" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/about-us/terms-of-use" rel="alternate" hreflang="en"/>
+    </url>
+    <url>
+      <loc>https://royalreservations.com/es/acerca-de-nosotros/politica-de-privacidad</loc>
+      <xhtml:link  href="https://royalreservations.com/es/acerca-de-nosotros/politica-de-privacidad" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/about-us/privacy-policy" rel="alternate" hreflang="en"/>
+    </url>
+    -->
+
+
+    <url>
+      <loc>https://royalreservations.com/es/acerca-de-nosotros/mejor-oferta-garantizada</loc>
+      <xhtml:link  href="https://royalreservations.com/es/acerca-de-nosotros/mejor-oferta-garantizada" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/about-us/best-deal-guaranteed" rel="alternate" hreflang="en"/>
+    </url>
+
+    <!-- Specials -->
+    <url>
+      <loc>https://royalreservations.com/es/ofertas/hoteles</loc>
+      <xhtml:link  href="https://royalreservations.com/es/ofertas/hoteles" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/deals/hotels" rel="alternate" hreflang="en"/>
+      <changefreq>monthly</changefreq>
+    </url>
+
+    <!-- Links de ofertas -->
+
+    <url>
+      <loc>https://royalreservations.com/es/ofertas/hoteles/desayuno-incluido</loc>
+      <xhtml:link  href="https://royalreservations.com/es/ofertas/hoteles/desayuno-incluido" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/deals/hotels/free-breakfast" rel="alternate" hreflang="en"/>
+      <changefreq>monthly</changefreq>
+    </url>
+
+    <url>
+      <loc>https://royalreservations.com/es/ofertas/hoteles/hotel-mas-avion</loc>
+      <xhtml:link  href="https://royalreservations.com/es/ofertas/hoteles/hotel-mas-avion" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/deals/hotels/hotel-plus-flight" rel="alternate" hreflang="en"/>
+      <changefreq>monthly</changefreq>
+    </url>
+
+    <url>
+      <loc>https://royalreservations.com/es/ofertas/hoteles/ofertas-especiales</loc>
+      <xhtml:link  href="https://royalreservations.com/es/ofertas/hoteles/ofertas-especiales" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/deals/hotels/special-offers" rel="alternate" hreflang="en"/>
+      <changefreq>monthly</changefreq>
+    </url>
+
+    <url>
+      <loc>https://royalreservations.com/es/ofertas/hoteles/oferta-flash</loc>
+      <xhtml:link  href="https://royalreservations.com/es/ofertas/hoteles/oferta-flash" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/deals/hotels/flash-sale" rel="alternate" hreflang="en"/>
+      <changefreq>monthly</changefreq>
+    </url>
+
+    <url>
+      <loc>https://royalreservations.com/es/ofertas/hoteles/oferta-especial-ultimo-minuto</loc>
+      <xhtml:link  href="https://royalreservations.com/es/ofertas/hoteles/oferta-especial-ultimo-minuto" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/deals/hotels/last-minute-special-deal" rel="alternate" hreflang="en"/>
+      <changefreq>monthly</changefreq>
+    </url>
+
+    <url>
+      <loc>https://royalreservations.com/es/ofertas/hoteles/hoteles-royal-resorts</loc>
+      <xhtml:link  href="https://royalreservations.com/es/ofertas/hoteles/hoteles-royal-resorts" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/deals/hotels/royal-resorts-hotels" rel="alternate" hreflang="en"/>
+      <changefreq>monthly</changefreq>
+    </url>
+
+    <url>
+      <loc>https://royalreservations.com/es/ofertas/hoteles/venta-royal-resorts</loc>
+      <xhtml:link  href="https://royalreservations.com/es/ofertas/hoteles/venta-royal-resorts" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/deals/hotels/royal-resorts-sale" rel="alternate" hreflang="en"/>
+      <changefreq>monthly</changefreq>
+    </url>
+
+    <url>
+      <loc>https://royalreservations.com/es/ofertas/hoteles/especial-hotel-mas-avion</loc>
+      <xhtml:link  href="https://royalreservations.com/es/ofertas/hoteles/especial-hotel-mas-avion" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/deals/hotels/hotel-plus-flight-special" rel="alternate" hreflang="en"/>
+      <changefreq>monthly</changefreq>
+    </url>
+
+    <url>
+      <loc>https://royalreservations.com/es/ofertas/hoteles/promocion-reserva-anticipada</loc>
+      <xhtml:link  href="https://royalreservations.com/es/ofertas/hoteles/promocion-reserva-anticipada" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/deals/hotels/early-booking-promo" rel="alternate" hreflang="en"/>
+      <changefreq>monthly</changefreq>
+    </url>
+
+    <url>
+      <loc>https://royalreservations.com/es/ofertas/hoteles/promocion-semana-santa</loc>
+      <xhtml:link  href="https://royalreservations.com/es/ofertas/hoteles/promocion-semana-santa" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/deals/hotels/easter-season-promotion" rel="alternate" hreflang="en"/>
+      <changefreq>monthly</changefreq>
+    </url>
+
+    <url>
+      <loc>https://royalreservations.com/es/ofertas/hoteles/resorts-deluxe</loc>
+      <xhtml:link  href="https://royalreservations.com/es/ofertas/hoteles/resorts-deluxe" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/deals/hotels/deluxe-resorts" rel="alternate" hreflang="en"/>
+      <changefreq>monthly</changefreq>
+    </url>
+
+
+    <url>
+      <loc>https://royalreservations.com/es/webcams-de-hoteles-de-playa</loc>
+      <xhtml:link  href="https://royalreservations.com/es/webcams-de-hoteles-de-playa" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/beach-resorts-webcams" rel="alternate" hreflang="en"/>
+    </url>
+
+    <url>
+      <loc>https://royalreservations.com/es/gms/register</loc>
+      <xhtml:link  href="https://royalreservations.com/es/gms/register" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/gms/register" rel="alternate" hreflang="en"/>
+    </url>
+
+    <url>
+      <loc>https://royalreservations.com/es/gms/log-in</loc>
+      <xhtml:link  href="https://royalreservations.com/es/gms/log-in" rel="alternate" hreflang="es"/>
+      <xhtml:link  href="https://royalreservations.com/gms/log-in" rel="alternate" hreflang="en"/>
+    </url>
+
+</urlset>

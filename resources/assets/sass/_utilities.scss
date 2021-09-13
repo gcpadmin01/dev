@@ -1,0 +1,253 @@
+@import 'variables';
+
+%e1{
+  text-transform: capitalize;
+  font-size: 1rem;
+  font-weight: 300;
+  color: $black-gray;
+}
+%e1-v1{
+  @extend %e1;
+  text-align: center;
+}
+
+%e2{
+  text-transform: capitalize;
+  font-size: 1rem;
+  font-weight: 400;
+  color: #fff;
+}
+%e2-v1{
+  @extend %e2;
+  text-align: center;
+}
+
+%e3{
+  text-transform: capitalize;
+  font-size: .8rem;
+  font-weight: 400;
+  line-height: 1.5rem;
+  color: $sky-blue;
+}
+%e3-v1{
+  color: $black-gray;
+}
+%e3-v2{
+  color: $sky-blue;
+  text-align: right;
+}
+
+%e4{
+  text-transform: uppercase;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.5rem;
+  color: #0c2d63;
+}
+
+%e5{
+  /*text-transform: capitalize;*/
+  font-size: .8rem;
+  font-weight: 300;
+  line-height: 1.2rem;
+  color: $black-gray;
+}
+
+%e6{
+  /*text-transform: capitalize;*/
+  font-size: .92rem;
+  font-weight: 400;
+  line-height: 1.5rem;
+  color: $black-gray;
+  a{
+    font-weight: 400;
+    color: $sky-blue;
+  }
+  a:hover{
+    color: #aba5a5;
+  }
+}
+
+%e6-v1{
+  font-weight: 500;
+}
+%e6-v4{
+  font-weight: 500;
+}
+
+%e7{
+  text-transform: capitalize;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5rem;
+  color: $black-gray;
+}
+%e7-v1{
+  @extend %e7;
+  color:#fff;
+}
+
+%e8{
+  /*text-transform: capitalize;*/
+  font-size: .85rem;
+  font-weight: 400;
+  line-height: 1.5rem;
+  color: $black-gray;
+}
+%e8-v1{
+  line-height: 25px;
+
+}
+
+%e9{
+  text-transform: uppercase;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.2rem;
+  color: #0c2d63;
+}
+%e9-v1{
+  color: #fff;
+}
+
+%e10{
+  text-transform: uppercase;
+  font-size: .9rem;
+  font-weight: 400;
+  line-height: 1.2rem;
+  color: $black-gray;
+}
+
+%e11{
+  font-size: 2rem;
+  font-weight: 800;
+  color: #0c2d63;
+}
+%e11-v1{
+  text-transform: uppercase;
+  font-size: 1.5rem;
+  color: #0c2d63;
+}
+
+%e12{
+  text-transform:uppercase;
+  font-size: 1rem;
+  font-weight: 400;
+  color: #fff;
+}
+%e12-v1{
+  text-align:center;
+}
+%e13{
+  text-transform: uppercase;
+  font-size: 1.3rem;
+  font-weight: 600;
+  line-height: 1.3rem;
+  color: #0c2d63;
+  
+  /*&:hover{
+    color:$sky-blue;
+  }
+  */
+}
+
+/*
+  Se inicia la generalizacion de los titulos y textos para manejar las mismas dimesiones en todas las secciones
+*/
+
+%h1{
+  font-weight: 500;
+  font-size: 32px;
+  color: $blue;
+}
+
+%h2{
+  font-weight: 500;
+  font-size: 25px;
+  color: $blue;
+}
+
+@mixin h2{
+  font-weight: 500;
+  font-size: 25px;
+  color: $blue;
+}
+
+%h3{
+  font-weight: 500;
+  font-size: 20px;
+  color: $blue;
+}
+
+%h4{
+  font-weight: 500;
+  font-size: 13px;
+  color: $blue;
+}
+
+%h5{
+  font-weight: 500;
+  font-size: 10px;
+  color: $blue;
+}
+
+%nav-title{
+  font-family: 'galano-regular';
+  font-size: 1rem; // 16px
+  color: $white;
+}
+
+%nav-subtitle{
+  font-family: 'galano-regular';
+  font-size: 0.9rem; // 14.4px
+  color: $white; 
+}
+
+%nav-link{
+  font-family: 'galano-regular';
+  font-size: 0.8rem; // 12.8px
+  color: $white; 
+
+  &:hover{
+    color: $sky-blue;
+  }
+}
+
+%text14{
+  font-family: 'galano-light';
+  font-size: 1rem;
+  color: $dark-gray;
+}
+
+%text14B600{
+  font-family: 'galano-semibold';
+  font-size: 1rem;
+  font-weight: 600;
+  color: $dark-gray;
+}
+
+%text24{
+  font-family: 'galano-light';
+  font-size: 24px;
+  color: $dark-gray;
+}
+
+@mixin text24{
+  font-family: 'galano-light';
+  font-size: 24px;
+  color: $dark-gray;
+}
+
+%text24B600{
+  font-family: 'galano-semibold';
+  font-size: 24px;
+  font-weight: 600;
+  color: $dark-gray;
+}
+
+@mixin text24B600{
+  font-family: 'galano-semibold';
+  font-size: 24px;
+  font-weight: 600;
+  color: $dark-gray;
+}

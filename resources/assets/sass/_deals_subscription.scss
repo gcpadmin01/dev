@@ -1,0 +1,68 @@
+.negro{
+  background-color: black;
+}
+.blanco{
+  background-color: white;
+}
+.sub-inter-subscription{
+  h1{
+    color:white;
+    /*max-width: 70%; */
+    padding: 10px 5%; 
+    text-align: center;
+  }
+  h2{
+    color: white; 
+    /*max-width: 70%; */
+    padding: 10px 5%; 
+    text-align: center;
+  }
+  input{
+    border: none; 
+    border-bottom: white solid 1px;
+    background-color: black;width: 100%; 
+    /*font-weight: bold; */
+    color: white; 
+    padding-left: 5px;
+  }
+  ::-webkit-input-placeholder { /* Edge */
+  color: white;
+  }
+
+  :-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: white;
+  }
+
+  ::placeholder {
+    color: white;
+  }
+  form{
+    /*max-width: 70%;*/
+     padding: 10px 5%; 
+  }
+  p{
+    color: white;
+  }
+  select{
+    background-color: black; 
+    color: white; 
+    width: 100%; 
+    border:none; 
+    border-bottom: white solid 1px;
+  }
+  .boton{
+    background-color: #cc0204;
+    border: none;
+    color: white;
+    padding: 10px 40px;font-weight: bold;
+  }
+  .background-black{
+    background-color: black;
+  }
+  .background-white{
+    background-color: white;
+  }
+}
+.tx-small{
+  font-size: 11px;
+}
